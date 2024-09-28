@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 import numpy as np
+
+import pip
+pip.main(["install","openpyxl"])
  
 st.set_page_config(page_title="pagina 2",layout="wide")
 
