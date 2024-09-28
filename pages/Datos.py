@@ -3,13 +3,13 @@ import pandas as pd
 
 
 #nobre pagina e icono
-st.set_page_config(page_title="Hello",page_icon="👋",layout="wide")
+st.set_page_config(page_title="Hola",page_icon="👋",layout="wide")
 
 st.markdown(
     """
     <style>
     .block-container {
-        padding-top: 13px;  /* Ajusta el padding superior según sea necesario */
+        padding-top: 28px;  /* Ajusta el padding superior según sea necesario */
         padding-left: 10px; /* Ajusta el padding izquierdo según sea necesario */
         padding-right: 20px; /* Ajusta el padding derecho según sea necesario */
         padding-bottom: 10px; /* Ajusta el padding inferior según sea necesario */
