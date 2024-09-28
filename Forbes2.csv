@@ -1,0 +1,2001 @@
+Company,Sector,Continent,Country,Market Val,Sales,Profits
+ICBC,Financials,Asia,China,215.6,148.7,42.7
+China Construction Bank,Financials,Asia,China,174.4,121.3,34.2
+Agricultural Bank of China,Financials,Asia,China,141.1,136.4,27
+JPMorgan Chase,Financials,North America,United States,229.7,105.7,17.3
+Berkshire Hathaway,Financials,North America,United States,309.1,178.8,19.5
+Exxon Mobil,Energy,North America,United States,422.3,394,32.6
+General Electric,Industrials,North America,United States,259.6,143.3,14.8
+Wells Fargo,Financials,North America,United States,261.4,88.7,21.9
+Bank of China,Financials,Asia,China,124.2,105.1,25.5
+PetroChina,Energy,Asia,China,202,328.5,21.1
+Royal Dutch Shell,Energy,Europe,Netherlands,234.1,451.4,16.4
+Toyota Motor,Consumer Discretionary,Asia,Japan,193.5,255.6,18.8
+Bank of America,Financials,North America,United States,183.3,101.5,11.4
+HSBC Holdings,Financials,Europe,United Kingdom,192.6,79.6,16.3
+Apple,Information Technology,North America,United States,483.1,173.8,37
+Citigroup,Financials,North America,United States,145.1,94.1,13.4
+BP,Energy,Europe,United Kingdom,148.8,379.2,23.6
+Chevron,Energy,North America,United States,227.2,211.8,21.4
+Volkswagen Group,Consumer Discretionary,Europe,Germany,119,261.5,12
+Wal-Mart Stores,Consumer Discretionary,North America,United States,247.9,476.5,16
+Gazprom,Energy,Asia,Russia,88.8,164.6,39
+Samsung Electronics,Information Technology,Asia,South Korea,186.5,208.9,27.2
+AT&T,Telecommunication Services,North America,United States,182.7,128.8,18.2
+BNP Paribas,Financials,Europe,France,98.6,123.2,6.4
+Total,Energy,Europe,France,149.8,227.9,11.2
+Verizon Communications,Telecommunication Services,North America,United States,197.7,120.6,11.5
+Allianz,Financials,Europe,Germany,77.2,131.4,8
+China Mobile,Telecommunication Services,Asia,Hong Kong,184.6,102.5,19.8
+Sinopec-China Petroleum,Energy,Asia,China,94.7,445.3,10.9
+Petrobras,Energy,South America,Brazil,86.8,141.2,10.9
+Daimler,Consumer Discretionary,Europe,Germany,102.9,156.6,9.1
+Microsoft,Information Technology,North America,United States,343.8,83.3,22.8
+AXA Group,Financials,Europe,France,63.4,138.9,6
+Rosneft,Energy,Asia,Russia,70,142.6,12.8
+IBM,Information Technology,North America,United States,202.5,99.8,16.5
+Nestle,Consumer Staples,Europe,Switzerland,239.6,99.4,10.8
+Mitsubishi UFJ Financial,Financials,Asia,Japan,77.7,48.6,11.3
+Vodafone,Telecommunication Services,Europe,United Kingdom,96.9,65.1,31.8
+Eni,Energy,Europe,Italy,90.9,152.7,6.9
+Procter & Gamble,Consumer Staples,North America,United States,217.8,84.7,10.9
+Johnson & Johnson,Health Care,North America,United States,277,71.3,13.8
+American International Group,Financials,North America,United States,73.2,68.1,9.1
+Banco Santander,Financials,Europe,Spain,112.3,52.5,5.8
+BHP Billiton,Materials,Australia,Australia,182.3,67.7,14.8
+Pfizer,Health Care,North America,United States,203.9,52.7,22
+ItaÃº Unibanco Holding,Financials,South America,Brazil,74.9,67.2,7.6
+Ford Motor,Consumer Discretionary,North America,United States,64.5,146.9,7.2
+BMW Group,Consumer Discretionary,Europe,Germany,83.4,101,7.1
+Commonwealth Bank,Financials,Australia,Australia,114.5,41.5,7.9
+EDF,Utilities,Europe,France,75.8,100.4,4.5
+Statoil,Energy,Europe,Norway,89.2,105.2,6.8
+Google,Information Technology,North America,United States,382.5,59.7,12.2
+Siemens,Industrials,Europe,Germany,114.2,99.7,6
+Novartis,Health Care,Europe,Switzerland,227.4,57.9,9.2
+Royal Bank of Canada,Financials,North America,Canada,95.7,37.8,8
+Sumitomo Mitsui Financial,Financials,Asia,Japan,58.6,46.2,9.7
+Comcast,Consumer Discretionary,North America,United States,130,64.7,6.8
+Sberbank,Financials,Asia,Russia,51.5,56.5,11.4
+Goldman Sachs Group,Financials,North America,United States,75.1,39.5,8
+Westpac Banking Group,Financials,Australia,Australia,99,38.4,6.8
+Nippon Telegraph & Tel,Telecommunication Services,Asia,Japan,61,110.7,5.7
+Ping An Insurance Group,Financials,Asia,China,66.1,59,4.6
+Banco Bradesco,Financials,South America,Brazil,58.5,74.1,5.6
+Anheuser-Busch InBev,Consumer Staples,Europe,Belgium,171.2,43.2,14.5
+Bank of Communications,Financials,Asia,China,48.7,46.6,10.1
+China Life Insurance,Financials,Asia,China,79.8,68.4,4
+General Motors,Consumer Discretionary,North America,United States,54.6,155.4,5.3
+TelefÃ³nica,Telecommunication Services,Europe,Spain,71.8,75.8,6.1
+MetLife,Financials,North America,United States,60,71,3.4
+Honda Motor,Consumer Discretionary,Asia,Japan,63,117.7,4.9
+Enel,Utilities,Europe,Italy,53.2,106.3,4.3
+BASF,Materials,Europe,Germany,102.3,98.2,6.4
+Softbank,Telecommunication Services,Asia,Japan,91.2,55.6,5.8
+National Australia Bank,Financials,Australia,Australia,75.3,36.9,5.4
+ANZ,Financials,Australia,Australia,83.9,34,6.2
+TD Bank Group,Financials,North America,Canada,86.2,31.3,6.6
+ConocoPhillips,Energy,North America,United States,86.3,55.6,9.2
+Intel,Information Technology,North America,United States,129.2,52.7,9.6
+UBS,Financials,Europe,Switzerland,81,39.7,3.4
+Hewlett-Packard,Information Technology,North America,United States,63,112.1,5.3
+Coca-Cola,Consumer Staples,North America,United States,168.7,46.3,8.5
+Cisco Systems,Information Technology,North America,United States,119,47.9,8.2
+LukOil,Energy,Asia,Russia,47.7,119.2,7.8
+Boeing,Industrials,North America,United States,95.3,86.6,4.6
+Zurich Insurance Group,Financials,Europe,Switzerland,45.8,71.9,4
+UnitedHealth Group,Health Care,North America,United States,81,122.5,5.6
+Hyundai Motor,Consumer Discretionary,Asia,South Korea,49.7,79.8,7.8
+Sanofi,Health Care,Europe,France,137.1,43.7,4.9
+Credit Agricole,Financials,Europe,France,41,65.3,3.3
+United Technologies,Industrials,North America,United States,108.1,62.7,5.7
+Roche Holding,Health Care,Europe,Switzerland,253.7,50.5,12
+Munich Re,Financials,Europe,Germany,38.9,88,4.4
+PepsiCo,Consumer Staples,North America,United States,126.2,66.4,6.7
+Oracle,Information Technology,North America,United States,185,37.9,11.1
+Bank of Nova Scotia,Financials,North America,Canada,71.2,27.7,6.3
+CVS Caremark,Consumer Staples,North America,United States,87.8,126.8,4.6
+ING Group,Financials,Europe,Netherlands,56.1,34.5,4.4
+Saudi Basic Industries,Materials,Asia,Saudi Arabia,94.4,50.4,6.7
+Merck & Co,Health Care,North America,United States,165.8,44.1,4.4
+Walt Disney,Consumer Discretionary,North America,United States,142.9,46,6.6
+Mizuho Financial,Financials,Asia,Japan,48.7,28.5,7.5
+China Merchants Bank,Financials,Asia,China,45.2,32.2,8.1
+SociÃ©tÃ© GÃ©nÃ©rale,Financials,Europe,France,50,45.6,2.9
+American Express,Financials,North America,United States,96.9,34.9,5.3
+Banco do Brasil,Financials,South America,Brazil,28.3,68.6,7.3
+Morgan Stanley,Financials,North America,United States,61.7,40.8,2.8
+Prudential,Financials,Europe,United Kingdom,56.1,81.9,2.1
+CNOOC,Energy,Asia,Hong Kong,67.2,43,10.6
+Rio Tinto,Materials,Europe,United Kingdom,103.8,51.2,3.7
+Unilever,Consumer Staples,Europe,Netherlands,124.5,66.1,6.4
+Nissan Motor,Consumer Discretionary,Asia,Japan,40.2,104,3.9
+Credit Suisse Group,Financials,Europe,Switzerland,52.3,39.5,2.8
+E.ON,Utilities,Europe,Germany,37.6,162.6,2.8
+Generali Group,Financials,Europe,Italy,34.5,100.5,2.5
+AmÃ©rica MÃ³vil,Telecommunication Services,North America,Mexico,70.9,61.6,5.8
+GlaxoSmithKline,Health Care,Europe,United Kingdom,128.8,41.4,8.5
+Schlumberger,Energy,North America,United States,128,45.4,6.7
+BBVA-Banco Bilbao Vizcaya,Financials,Europe,Spain,71,28.2,3
+Nordea Bank,Financials,Europe,Sweden,58,25.6,4.1
+Bayer,Materials,Europe,Germany,111.3,53.3,4.2
+China Minsheng Banking,Financials,Asia,China,33.6,34.1,6.8
+Caterpillar,Industrials,North America,United States,63.7,55.7,3.8
+Standard Chartered,Financials,Europe,United Kingdom,51.1,25.6,4.1
+China Shenhua Energy,Materials,Asia,China,57.6,42.8,7.2
+US Bancorp,Financials,North America,United States,78.2,20.2,5.8
+Mitsubishi Corp,Industrials,Asia,Japan,30.5,74.8,4.4
+Dow Chemical,Materials,North America,United States,60.1,57.1,4.8
+Ecopetrol,Energy,South America,Colombia,83.6,37.7,7
+Industrial Bank,Financials,Asia,China,28.8,32.7,6.7
+Shanghai Pudong Development,Financials,Asia,China,29.2,31.7,6.7
+EADS,Industrials,Europe,France,56.9,78.7,1.9
+Swiss Re,Financials,Europe,Switzerland,34.7,36.8,4.4
+Iberdrola,Utilities,Europe,Spain,44.1,43.6,3.4
+China Citic Bank,Financials,Asia,China,32.5,27.8,5.7
+Reliance Industries,Energy,Asia,India,50.9,72.8,3.8
+Hutchison Whampoa,Industrials,Asia,Hong Kong,57.8,33,4
+Home Depot,Consumer Discretionary,North America,United States,109.7,78.8,5.4
+Hitachi,Information Technology,Asia,Japan,36.2,95.7,2.6
+Hon Hai Precision,Information Technology,Asia,Taiwan,37.3,127.2,3.4
+Phillips 66,Energy,North America,United States,46.8,157.9,3.7
+Capital One Financial,Financials,North America,United States,44,24.2,4.1
+MÃ¸ller-Maersk,Industrials,Europe,Denmark,51.7,47.4,3.6
+Aviva,Financials,Europe,United Kingdom,24.1,53.8,3.1
+France Telecom,Telecommunication Services,Europe,France,39,54.4,2.5
+Deutsche Telekom,Telecommunication Services,Europe,Germany,71.2,79.8,1.2
+Bank of Montreal,Financials,North America,Canada,43.3,20.1,4
+VINCI,Industrials,Europe,France,44.2,54.1,2.6
+MondelÄ“z International,Consumer Staples,North America,United States,59.2,35.3,3.9
+Suncor Energy,Energy,North America,Canada,51.5,38.4,3.8
+China Telecom,Telecommunication Services,Asia,China,37.4,52.3,2.9
+Occidental Petroleum,Energy,North America,United States,75,24.4,5.9
+"Twenty-First Century Fox, Inc.",,North America,United States,74.6,32,4.9
+Mitsui & Co,Industrials,Asia,Japan,25.6,58.1,3.6
+Qualcomm,Information Technology,North America,United States,135.5,25.5,6.8
+State Bank of India,Financials,Asia,India,23.6,37.1,3.3
+Time Warner,Consumer Discretionary,North America,United States,58.9,29.8,3.6
+Philip Morris International,Consumer Staples,North America,United States,130.3,30.9,8.6
+Honeywell International,Industrials,North America,United States,72.9,39.1,3.9
+Express Scripts,Health Care,North America,United States,59,104.2,1.8
+United Parcel Service,Industrials,North America,United States,89.6,55.5,4.4
+Barclays,Financials,Europe,United Kingdom,64.6,55,0.8
+PNC Financial Services,Financials,North America,United States,46.6,16.5,4.2
+Deutsche Post,Industrials,Europe,Germany,45.4,73.1,2.8
+AIA Group,Financials,Asia,Hong Kong,58,20.7,2.8
+Duke Energy,Utilities,North America,United States,49.9,24.6,2.7
+Delta Air Lines,Industrials,North America,United States,30.4,37.7,10.5
+Deutsche Bank,Financials,Europe,Germany,46.5,61.1,0.9
+National Grid,Utilities,Europe,United Kingdom,49.6,23.4,3.9
+ABB,Industrials,Europe,Switzerland,60,41.8,2.8
+Amgen,Health Care,North America,United States,95.2,18.7,5.1
+EI du Pont de Nemours,Materials,North America,United States,62.1,35.9,2.9
+L'OrÃ©al Group,Consumer Staples,Europe,France,98.7,30.5,3.9
+Manulife Financial,Financials,North America,Canada,36,17.6,3
+British American Tobacco,Consumer Staples,Europe,United Kingdom,104.3,23.9,6.1
+SAIC Motor,Consumer Discretionary,Asia,China,24.7,88.3,4
+Oil & Natural Gas,Energy,Asia,India,46.4,29.6,4.5
+Walgreen,Consumer Staples,North America,United States,62.8,74.2,2.7
+KDDI,Telecommunication Services,Asia,Japan,46.9,42.3,3.4
+Valero Energy,Energy,North America,United States,29.6,138.1,2.7
+PTT PCL,Energy,Asia,Thailand,26.7,92.5,3.1
+Travelers Cos,Financials,North America,United States,29.7,26.2,3.6
+Canadian Imperial Bank,Financials,North America,Canada,34.4,16.7,3.6
+AstraZeneca,Health Care,Europe,United Kingdom,82.3,25.7,2.6
+Deere & Co,Industrials,North America,United States,33.8,38,3.6
+Union Pacific,Industrials,North America,United States,85.8,22,4.4
+McDonald's,Consumer Discretionary,North America,United States,96.9,28.1,5.6
+WellPoint,Health Care,North America,United States,28,71.5,2.5
+Aflac,Financials,North America,United States,28.8,24.1,3.2
+Tokio Marine Holdings,Financials,Asia,Japan,23,42.7,2
+Taiwan Semiconductor,Information Technology,Asia,Taiwan,102,20.1,6.3
+Legal & General Group,Financials,Europe,United Kingdom,20.8,61.2,1.4
+Christian Dior,Consumer Discretionary,Europe,France,34.4,38.4,1.8
+China Unicom,Telecommunication Services,Asia,Hong Kong,31.6,48,1.7
+3M,Industrials,North America,United States,89.8,30.9,4.7
+Allstate,Financials,North America,United States,25.3,34.2,2.3
+Schneider Electric,Industrials,Europe,France,50.7,31.3,2.5
+DNB,Financials,Europe,Norway,28.6,16.8,3
+Lockheed Martin,Industrials,North America,United States,52.3,45.4,3
+Surgutneftegas,Energy,Asia,Russia,26.5,26.9,5.8
+Target,Consumer Discretionary,North America,United States,38.4,72.6,2
+ACE,Financials,Europe,Switzerland,33.4,18.9,3.8
+Denso,Consumer Discretionary,Asia,Japan,42.4,41.3,2.8
+Nomura Holdings,Financials,Asia,Japan,23.7,21.5,2.4
+Nippon Steel & Sumitomo Metal,Materials,Asia,Japan,25.3,54.8,2.3
+Wesfarmers,Consumer Staples,Australia,Australia,43.5,58.5,2.3
+China Everbright Bank,Financials,Asia,China,18.6,21.2,4.2
+SAP,Information Technology,Europe,Germany,97.1,22.3,4.4
+Jardine Matheson,Industrials,Asia,Hong Kong,43.4,39.5,1.6
+Japan Tobacco,Consumer Staples,Asia,Japan,56.9,23.5,4.5
+BG Group,Energy,Europe,United Kingdom,64,19.2,2.5
+Itochu,Industrials,Asia,Japan,18.4,55,3.2
+Carrefour,Consumer Staples,Europe,France,27.4,99.4,1.7
+SABMiller,Consumer Staples,Europe,United Kingdom,80.1,17.5,3.4
+Bank of New York Mellon,Financials,North America,United States,40.3,15.1,2.1
+Continental,Consumer Discretionary,Europe,Germany,48.7,44.3,2.6
+EMC,Information Technology,North America,United States,56.3,23.2,2.9
+Costco Wholesale,Consumer Discretionary,North America,United States,49.2,107.9,2
+BT Group,Telecommunication Services,Europe,United Kingdom,50,28.6,3.2
+Eli Lilly & Co,Health Care,North America,United States,65.9,23.1,4.7
+Seven & I Holdings,Consumer Staples,Asia,Japan,33.4,57.3,1.8
+Canon,Industrials,Asia,Japan,40.8,38.2,2.4
+Lowe's Cos,Consumer Discretionary,North America,United States,50.9,53.4,2.3
+China State Construction,Industrials,Asia,China,14,88.1,2.5
+Freeport-McMoRan Copper,Materials,North America,United States,34.2,21.6,2.7
+Telstra,Telecommunication Services,Australia,Australia,58.1,24.7,3.8
+LyondellBasell Industries,Materials,Europe,Netherlands,48.2,44.1,3.8
+China Pacific Insurance,Financials,Asia,China,23.2,33.2,1.6
+Diageo,Consumer Staples,Europe,United Kingdom,77.3,17.7,4
+Abbott Laboratories,Health Care,North America,United States,59.4,21.8,2.6
+Gas Natural Fenosa,Utilities,Europe,Spain,28.4,33.1,1.9
+Danske Bank,Financials,Europe,Denmark,28.3,20.8,1.3
+Aetna,Health Care,North America,United States,27.2,47.3,1.9
+Sony,Consumer Discretionary,Asia,Japan,20.1,78.2,1.1
+Aegon,Financials,Europe,Netherlands,19.8,40.2,1.1
+Ericsson,Information Technology,Europe,Sweden,43.5,34.9,1.8
+Posco,Materials,Asia,South Korea,24.8,56.5,1.2
+East Japan Railway,Industrials,Asia,Japan,28.7,27.7,1.9
+Brookfield Asset Management,Financials,North America,Canada,25.2,20.8,2.1
+Altria Group,Consumer Staples,North America,United States,74.5,17.7,4.5
+BlackRock,Financials,North America,United States,53.1,10.4,2.9
+Exelon,Utilities,North America,United States,28.7,24.6,1.7
+Danone,Consumer Staples,Europe,France,41.8,28.3,1.9
+Archer Daniels Midland,Consumer Staples,North America,United States,28.5,89.7,1.3
+McKesson,Health Care,North America,United States,40.5,130.1,1.2
+Heineken Holding,Consumer Staples,Europe,Netherlands,40.3,25.5,1.8
+Panasonic,Consumer Discretionary,Asia,Japan,28.4,77.3,1.2
+Hess,Energy,North America,United States,27.3,22.2,5.1
+People's Insurance Company,Financials,Asia,China,17.7,42.3,1.5
+Shinhan Financial Group,Financials,Asia,South Korea,21.1,19.6,1.7
+eBay,Consumer Discretionary,North America,United States,71,16,2.9
+Natixis,Financials,Europe,France,23.6,21.6,1.2
+Time Warner Cable,Consumer Discretionary,North America,United States,38.2,22.1,1.9
+General Dynamics,Industrials,North America,United States,37.7,31.2,2.4
+AbbVie,Health Care,North America,United States,82.8,18.8,4.1
+Medtronic,Health Care,North America,United States,61.7,16.9,3.6
+EXOR,Financials,Europe,Italy,10.1,143.7,2.4
+Bristol-Myers Squibb,Health Care,North America,United States,85.9,16.4,2.6
+KIA Motors,Consumer Discretionary,Asia,South Korea,22.8,43.5,3.5
+SEB,Financials,Europe,Sweden,30.4,11.9,2.3
+KBC Group,Financials,Europe,Belgium,26.3,17.2,1.3
+FedEx,Industrials,North America,United States,39.6,45.2,1.7
+Renault,Consumer Discretionary,Europe,France,28.7,54.3,0.8
+VTB Bank,Financials,Asia,Russia,14.6,22.8,2.4
+Sumitomo Corp,Industrials,Asia,Japan,16,33.2,2.3
+CNP Assurances,Financials,Europe,France,14.6,36.2,1.3
+MS&AD Insurance,Financials,Asia,Japan,14.3,45.8,1.5
+Hyundai Mobis,Consumer Discretionary,Asia,South Korea,28.7,31.2,3.1
+Halliburton,Energy,North America,United States,50.7,29.4,2.1
+Danaher,Industrials,North America,United States,52.6,19.1,2.7
+Apache,Energy,North America,United States,33.1,16.5,2.2
+Sun Life Financial,Financials,North America,Canada,21.1,17.9,1.7
+Marathon Petroleum,Energy,North America,United States,26.2,93.9,2.1
+Southern Co,Utilities,North America,United States,38.6,17.1,1.7
+Ping An Bank,Financials,Asia,China,16.6,17.1,2.5
+Linde,Materials,Europe,Germany,37,22.1,1.7
+NextEra Energy,Utilities,North America,United States,40.9,14.6,1.9
+Saint-Gobain,Materials,Europe,France,34.5,55.5,0.8
+Canadian Natural Resources,Energy,North America,Canada,42,15.7,2.2
+Transneft,Energy,Asia,Russia,15.6,23.7,5.3
+Visa,Financials,North America,United States,136,12.1,5.1
+Rolls-Royce Holdings,Industrials,Europe,United Kingdom,34.3,24.2,2.1
+JX Holdings,Energy,Asia,Japan,11.8,124.6,2
+Imperial Tobacco Group,Consumer Staples,Europe,United Kingdom,38.8,22.8,1.5
+Woolworths,Consumer Staples,Australia,Australia,41.3,58.3,2.3
+Bridgestone,Consumer Discretionary,Asia,Japan,27.7,36.5,2.1
+Cigna,Health Care,North America,United States,22.5,32.4,1.5
+Standard Bank Group,Financials,Africa,South Africa,21.4,16.4,1.7
+DBS Group,Financials,Asia,Singapore,31.8,9.4,2.9
+Svenska Handelsbanken,Financials,Europe,Sweden,32.1,10.1,2.2
+BCE,Telecommunication Services,North America,Canada,33.7,19.8,2
+Centrica,Utilities,Europe,United Kingdom,27.7,41.5,1.5
+National Oilwell Varco,Energy,North America,United States,33.5,22.9,2.3
+Air Liquide,Materials,Europe,France,42.1,20.2,2.2
+Teva Pharmaceutical Inds,Health Care,Asia,Israel,44.6,20.3,1.3
+Old Mutual,Financials,Europe,United Kingdom,16.6,31,1.1
+Philips,Industrials,Europe,Netherlands,32.2,31,1.6
+Swedbank,Financials,Europe,Sweden,29.8,10.7,2
+Oversea-Chinese Banking,Financials,Asia,Singapore,26.1,11.1,2.2
+Eaton,Industrials,Europe,Ireland,36.1,22,1.9
+Directv,Consumer Discretionary,North America,United States,39.6,31.8,2.9
+Dai-ichi Life Insurance,Financials,Asia,Japan,14.5,58.1,0.8
+Marubeni,Industrials,Asia,Japan,11.5,66,2.2
+Fresenius,Health Care,Europe,Germany,27.8,27,1.3
+ICICI Bank,Financials,Asia,India,23.7,13.3,1.8
+China Vanke,Financials,Asia,China,14.9,22,2.5
+China Communications Construction,Industrials,Asia,China,11.2,52.8,2
+State Street,Financials,North America,United States,30,9.7,2.1
+Central Japan Railway,Industrials,Asia,Japan,22.8,16.7,2.6
+Kroger,Consumer Staples,North America,United States,22.2,98.5,1.5
+Johnson Controls,Consumer Discretionary,North America,United States,32,43.2,1.3
+China Railway Construction,Industrials,Asia,China,10.5,89.9,1.7
+Henkel,Consumer Staples,Europe,Germany,46.4,21.7,2.1
+Inditex,Consumer Discretionary,Europe,Spain,94.3,22.2,3.2
+Emerson Electric,Industrials,North America,United States,47.3,24.7,2
+Husky Energy,Energy,North America,Canada,30,22.3,1.8
+Wilmar International,Consumer Staples,Asia,Singapore,17.7,44.1,1.3
+Teliasonera,Telecommunication Services,Europe,Sweden,32.9,15.6,2.3
+Dominion Resources,Utilities,North America,United States,40.9,13.2,1.7
+BB&T,Financials,North America,United States,28.8,10.6,1.7
+China Railway Group,Industrials,Asia,Hong Kong,10,85.9,1.5
+Sasol,Materials,Africa,South Africa,37,20.1,2.8
+NIKE,Consumer Discretionary,North America,United States,65.9,27,2.7
+Kinder Morgan,Energy,North America,United States,33.9,14.1,1.2
+SingTel,Telecommunication Services,Asia,Singapore,46.2,13.7,2.9
+CaixaBank,Financials,Europe,Spain,33.3,15.9,0.7
+OMV Group,Energy,Europe,Austria,14.8,56.3,1.5
+Maybank,Financials,Asia,Malaysia,26.3,9.7,2.1
+Holcim,Materials,Europe,Switzerland,27.3,21.3,1.4
+Reckitt Benckiser Group,Consumer Staples,Europe,United Kingdom,58.7,15.2,2.7
+Telenor,Telecommunication Services,Europe,Norway,33.1,17.7,2.2
+EOG Resources,Energy,North America,United States,54.1,14.5,2.2
+Tata Motors,Consumer Discretionary,Asia,India,19.9,34.5,1.8
+Power Corp of Canada,Financials,North America,Canada,12.7,31.7,1
+Monsanto,Materials,North America,United States,59.8,15.4,2.7
+Raytheon,Industrials,North America,United States,31.2,23.7,2
+SSE,Utilities,Europe,United Kingdom,24.1,47.5,1.2
+Mitsubishi Heavy Industries,Industrials,Asia,Japan,19.4,31.8,1.3
+Chubb,Financials,North America,United States,21.8,13.9,2.3
+Accenture,Information Technology,Europe,Ireland,52.7,30.6,2.9
+Mitsubishi Electric,Industrials,Asia,Japan,24.7,38.8,1.2
+American Electric,Utilities,North America,United States,24.6,15.3,1.5
+HCA Holdings,Health Care,North America,United States,22.9,34.2,1.6
+Standard Life,Financials,Europe,United Kingdom,15.2,32.2,0.7
+Enbridge,Energy,North America,Canada,38.5,32.2,0.6
+Northrop Grumman,Industrials,North America,United States,26.9,24.7,2
+WPP,Consumer Discretionary,Europe,United Kingdom,27.7,17.2,1.5
+Kraft Foods Group,Consumer Staples,North America,United States,33.5,18.3,2.7
+Takeda Pharmaceutical,Health Care,Asia,Japan,37,17,1.1
+Discover Financial Services,Financials,North America,United States,27.8,9.2,2.5
+EDP-Energias de Portugal,Utilities,Europe,Portugal,16.9,21.4,1.3
+Safran,Industrials,Europe,France,29,19.5,1.4
+Volvo Group,Industrials,Europe,Sweden,34.7,41.8,0.6
+Investor,Financials,Europe,Sweden,28.3,9.5,6.9
+Sumitomo Mitsui Trust,Financials,Asia,Japan,17.7,11.2,1.4
+Fannie Mae,Financials,North America,United States,4.6,122.9,84
+Samsung Life Insurance,Financials,Asia,South Korea,18,21.8,0.7
+Las Vegas Sands,Consumer Discretionary,North America,United States,67.2,13.8,2.3
+Baxter International,Health Care,North America,United States,39.9,15.3,2
+Michelin Group,Consumer Discretionary,Europe,France,23.6,26.9,1.5
+Anadarko Petroleum,Energy,North America,United States,44.3,14.9,0.8
+Sun Hung Kai Properties,Financials,Asia,Hong Kong,33.4,7.1,4.7
+Ameriprise Financial,Financials,North America,United States,21.3,11.2,1.3
+International Paper,Materials,North America,United States,20.1,29.1,1.4
+Gilead Sciences,Health Care,North America,United States,113.2,11.2,3.1
+Huaxia Bank,Financials,Asia,China,12,12.9,2.4
+Kimberly-Clark,Consumer Staples,North America,United States,41.5,21.2,2.1
+United Overseas Bank,Financials,Asia,Singapore,27.2,7,2.4
+CBS,Consumer Discretionary,North America,United States,37.5,15.3,1.9
+Toshiba,Information Technology,Asia,Japan,17.9,65,0.6
+KB Financial Group,Financials,Asia,South Korea,13.7,15.8,1.2
+Richemont,Consumer Discretionary,Europe,Switzerland,54.3,13.6,2.8
+Merck,Health Care,Europe,Germany,36.3,14.7,1.6
+Femsa,Consumer Staples,North America,Mexico,33.3,20,1.2
+Marathon Oil,Energy,North America,United States,24.5,14.8,1.8
+Carnival,Consumer Discretionary,North America,United States,31,15.5,1.1
+Mapfre,Financials,Europe,Spain,13.2,27.3,1
+Freddie Mac,Financials,North America,United States,2.6,62.2,48.7
+MTN Group,Telecommunication Services,Africa,South Africa,38.1,14.1,2.7
+General Mills,Consumer Staples,North America,United States,31.8,18,1.8
+Viacom,Consumer Discretionary,North America,United States,38,13.7,2.5
+Lafarge,Materials,Europe,France,23.1,20.2,0.8
+Grupo ACS,Industrials,Europe,Spain,12.4,50.9,0.9
+Thermo Fisher Scientific,,North America,United States,47.8,13.1,1.3
+Sistema,Telecommunication Services,Asia,Russia,9.8,35.5,2.3
+Baker Hughes,Energy,North America,United States,28.7,22.4,1.1
+Automatic Data,Consumer Discretionary,North America,United States,37.3,11.7,1.4
+Canadian National Railway,Industrials,North America,Canada,46.7,10.3,2.5
+Orix,Financials,Asia,Japan,18.4,12,1.4
+Talanx,Financials,Europe,Germany,9.2,36.7,1
+TransCanada,Energy,North America,Canada,35.4,8.5,1.7
+Lloyds Banking Group,Financials,Europe,United Kingdom,89.9,58.6,-1.3
+Isbank,Financials,Europe,Turkey,9.9,14.6,2.3
+Saudi Telecom,Telecommunication Services,Asia,Saudi Arabia,35.6,12.2,2.6
+CSX,Industrials,North America,United States,29.3,12,1.9
+Norfolk Southern,Industrials,North America,United States,30.4,11.2,1.9
+Lincoln National,Financials,North America,United States,13.4,12.2,1.2
+Macy's,Consumer Discretionary,North America,United States,21.7,27.9,1.5
+Pernod Ricard,Consumer Staples,Europe,France,30.6,10.9,1.6
+Novo Nordisk,Health Care,Europe,Denmark,119.6,14.9,4.5
+Cathay Financial,Financials,Asia,Taiwan,17.1,11,1
+Huaneng Power International,Utilities,Asia,China,12.1,21.8,1.7
+Royal Ahold,Consumer Staples,Europe,Netherlands,19.6,43.4,1.2
+SunTrust Banks,Financials,North America,United States,21.5,8.3,1.3
+NKSJ Holdings,Financials,Asia,Japan,10.6,30.1,0.9
+GDF SUEZ,Utilities,Europe,France,64.6,118.6,-12.3
+Glencore International,Materials,Europe,Switzerland,67.5,232.6,-7.5
+Qatar National Bank,Financials,Asia,Qatar,37.1,5.4,2.6
+Sampo,Financials,Europe,Finland,29.7,8.7,1.9
+Magna International,Consumer Discretionary,North America,Canada,21.9,34.8,1.6
+Komatsu,Industrials,Asia,Japan,19.7,19.7,1.5
+Fubon Financial,Financials,Asia,Taiwan,13.9,12.5,1.1
+Inpex,Energy,Asia,Japan,19.1,13.6,1.6
+PG&E,Utilities,North America,United States,19.4,15.6,0.8
+Garanti Bank,Financials,Europe,Turkey,14.9,9.5,1.9
+Illinois Tool Works,Industrials,North America,United States,34.9,15.4,1.7
+Indian Oil,Energy,Asia,India,11.1,74.6,0.8
+Mitsui Fudosan,Financials,Asia,Japan,26.8,15.3,0.8
+Humana,Health Care,North America,United States,17.5,41.3,1.2
+Fuji Heavy Industries,Consumer Discretionary,Asia,Japan,21.3,23.1,2.5
+Syngenta,Materials,Europe,Switzerland,34.6,14.7,1.7
+HDFC Bank,Financials,Asia,India,29.6,7.9,1.3
+Texas Instruments,Information Technology,North America,United States,51.4,12.2,2.1
+Colgate-Palmolive,Consumer Staples,North America,United States,59,17.4,2.2
+NTPC,Utilities,Asia,India,16.8,12.3,2.3
+Royal Bank of Scotland,Financials,Europe,United Kingdom,59.8,38.3,-13.4
+Tencent Holdings,Information Technology,Asia,China,135.4,9.8,2.5
+Swisscom,Telecommunication Services,Europe,Switzerland,31.3,12.3,1.8
+Coal India,Materials,Asia,India,30.6,12.6,3.2
+Bank of Beijing,Financials,Asia,China,10.8,9.8,2.1
+PPL,Utilities,North America,United States,20.7,11.9,1.1
+AMP,Financials,Australia,Australia,13.5,19.4,0.6
+Macquarie Group,Financials,Australia,Australia,17.2,10.3,0.9
+Prudential Financial,Financials,North America,United States,39.7,48.7,-0.7
+HeidelbergCement,Materials,Europe,Germany,16.5,18.5,1
+UniCredit Group,Financials,Europe,Italy,53.8,32.8,-7.9
+Suzuki Motor,Consumer Discretionary,Asia,Japan,14.6,29,1.2
+Praxair,Materials,North America,United States,38.5,11.9,1.8
+Edison International,Utilities,North America,United States,18.4,12.6,1
+SK Hynix,Information Technology,Asia,South Korea,24.9,12.9,2.6
+PPG Industries,Materials,North America,United States,27.3,15.1,3.2
+JFE Holdings,Materials,Asia,Japan,10.9,36.1,1
+Vale,Materials,South America,Brazil,71.4,47.6,0.1
+Tenaga Nasional,Utilities,Asia,Malaysia,20.7,12,1.6
+Resona Holdings,Financials,Asia,Japan,10.9,7.9,2.2
+Toyota Industries,Consumer Discretionary,Asia,Japan,14.8,20,0.9
+Daiwa Securities,Financials,Asia,Japan,14.9,6.8,1.9
+Fifth Third Bancorp,Financials,North America,United States,19.7,6.2,1.8
+United Continental Holdings,Industrials,North America,United States,17.4,38.3,0.6
+H&M,Consumer Discretionary,Europe,Sweden,70.9,20.3,2.7
+KoÃ§ Holding,Industrials,Europe,Turkey,10.6,34.7,1.4
+Chesapeake Energy,Energy,North America,United States,17.4,17.8,0.7
+Amazon.com,Consumer Discretionary,North America,United States,157.5,74.5,0.3
+Intesa Sanpaolo,Financials,Europe,Italy,57.4,24.5,-6
+Paccar,Industrials,North America,United States,24,17.1,1.2
+Aon,Financials,Europe,United Kingdom,25.5,11.8,1.1
+Xerox,Industrials,North America,United States,13.6,21.6,1.2
+Hana Financial Group,Financials,Asia,South Korea,10.6,13,0.8
+Etisalat,Telecommunication Services,Asia,United Arab Emirates,25.8,10.6,1.9
+Loews,Financials,North America,United States,17.2,14.7,0.6
+Tokyo Electric Power,Utilities,Asia,Japan,6.3,66,0.9
+CIMB Group Holdings,Financials,Asia,Malaysia,18.1,6.8,1.4
+SK Telecom,Telecommunication Services,Asia,South Korea,16.6,15.3,1.5
+TJX Cos,Consumer Discretionary,North America,United States,43.5,27.4,2.1
+Charles Schwab,Financials,North America,United States,35.6,5.5,1.1
+Associated British Foods,Consumer Staples,Europe,United Kingdom,36.7,20.8,0.9
+Tesco,Consumer Staples,Europe,United Kingdom,39.5,100.6,-0.5
+Principal Financial Group,Financials,North America,United States,13.9,9.5,0.9
+Mitsubishi Estate,Financials,Asia,Japan,32.8,10.2,0.7
+GFNorte,Financials,North America,Mexico,18.2,8.4,1.1
+Ageas,Financials,Europe,Netherlands,10.2,15.8,0.8
+Repsol YPF,Energy,Europe,Spain,33.7,74.7,0.3
+Sempra Energy,Utilities,North America,United States,23.6,10.6,1
+T&D Holdings,Financials,Asia,Japan,8,21.6,0.9
+New China Life Insurance,Financials,Asia,China,10.2,18.7,0.7
+FirstRand,Financials,Africa,South Africa,18.8,6.3,1.7
+Aeon,Consumer Discretionary,Asia,Japan,9.3,64.4,0.6
+Akzo Nobel,Materials,Europe,Netherlands,19.8,19.4,1
+Bank Mandiri,Financials,Asia,Indonesia,20.5,6.6,1.7
+Rogers Communications,Telecommunication Services,North America,Canada,21.6,12.3,1.6
+Swiss Life Holding,Financials,Europe,Switzerland,7.9,20.2,0.8
+Novatek,Energy,Asia,Russia,30.5,9.4,3.4
+Corning,Information Technology,North America,United States,29.2,7.8,2
+Fujifilm Holdings,Consumer Discretionary,Asia,Japan,13,24.4,0.9
+Bank Rakyat Indonesia,Financials,Asia,Indonesia,21.8,6.3,2
+CEZ Group,Utilities,Europe,Czech Republic,15.3,11.1,1.8
+Consolidated Edison,Utilities,North America,United States,15.6,12.3,1.1
+Akbank,Financials,Europe,Turkey,13.2,7.9,1.7
+Micron Technology,Information Technology,North America,United States,25.9,11.3,1.8
+Covidien,Health Care,Europe,Ireland,32.7,10.9,1.6
+Progressive,Financials,North America,United States,14.3,18.2,1.2
+Saudi Electricity,Utilities,Asia,Saudi Arabia,17.5,9.5,0.8
+ArcelorMittal,Materials,Europe,Luxembourg,26.8,79.4,-2.5
+Alstom,Industrials,Europe,France,9.1,26.6,1
+National Bank of Canada,Financials,North America,Canada,13.3,7,1.5
+Formosa Petrochemical,Energy,Asia,Taiwan,24.3,31.4,0.7
+Cummins,Industrials,North America,United States,27.4,17.3,1.5
+SK Innovation,Energy,Asia,South Korea,10.6,60.9,0.7
+TE Connectivity,Information Technology,Europe,Switzerland,24.7,13.5,1.4
+Ecolab,Materials,North America,United States,32.7,13.3,1
+Larsen & Toubro,Industrials,Asia,India,19.8,13.5,1
+Gree Electric Appliances,Consumer Discretionary,Asia,China,13.7,17.9,1.6
+Public Service Enterprise,Utilities,North America,United States,19,10,1.2
+Piraeus Bank,Financials,Europe,Greece,13.9,5.5,3.4
+Precision Castparts,Industrials,North America,United States,37.7,9.5,1.7
+RWE Group,Utilities,Europe,Germany,25.1,68.2,-3.6
+MasterCard,Financials,North America,United States,88.8,8.3,3.1
+Fortescue Metals Group,Materials,Australia,Australia,15.3,10.6,3
+Kellogg,Consumer Staples,North America,United States,22.5,14.8,1.8
+Kirin Holdings,Consumer Staples,Asia,Japan,12.6,23.1,0.9
+Facebook,Information Technology,North America,United States,159.7,7.9,1.5
+Poly Real Estate,Financials,Asia,China,8.9,13.1,1.7
+Baoshan Iron & Steel,Materials,Asia,China,10.4,30.8,0.7
+Fortum,Utilities,Europe,Finland,20.3,8,1.6
+Atlas Copco,Industrials,Europe,Sweden,35.4,12.9,1.9
+Norilsk Nickel,Materials,Asia,Russia,26.9,11.7,1.2
+Cheung Kong Holdings,Financials,Asia,Hong Kong,39,2.6,4.5
+Toyota Tsusho,Industrials,Asia,Japan,8.9,74.8,0.7
+Sysco,Consumer Staples,North America,United States,21.1,45.5,1
+Tatneft,Energy,Asia,Russia,13,14.3,2.4
+DISH Network,Consumer Discretionary,North America,United States,29.3,13.9,0.8
+Safeway,Consumer Staples,North America,United States,8.7,37.6,3.5
+Adidas,Consumer Discretionary,Europe,Germany,22.8,19.2,1
+Cenovus Energy,Energy,North America,Canada,21.8,18.1,0.6
+Korea Electric Power,Utilities,Asia,South Korea,21.9,49.4,0.1
+Omnicom Group,Consumer Discretionary,North America,United States,18.7,14.6,1
+Cardinal Health,Health Care,North America,United States,23.9,96.7,0.4
+Thales,Industrials,Europe,France,13.8,18.2,0.8
+Otsuka Holding,Health Care,Asia,Japan,16.1,14.4,1.8
+Grupo Mexico,Materials,North America,Mexico,24.4,9.4,1.8
+CLP Holdings,Utilities,Asia,Hong Kong,19.2,13.5,0.8
+Swire Pacific,Industrials,Asia,Hong Kong,17.7,6.6,1.7
+Kyocera,Information Technology,Asia,Japan,16.2,14.6,0.9
+Marsh & McLennan,Financials,North America,United States,27.2,12.3,1.4
+China Resources Land,Financials,Asia,Hong Kong,12.9,9.3,1.9
+HDFC,Financials,Asia,India,23.2,6.6,1.2
+Raiffeisen Bank International,Financials,Europe,Austria,10.1,11.1,0.7
+Shin-Etsu Chemical,Materials,Asia,Japan,24.2,11.4,1.2
+CIC Group,Financials,Europe,France,8.5,9.7,1.1
+Suncorp Group,Financials,Australia,Australia,15.2,15.6,0.4
+Kubota,Industrials,Asia,Japan,16.6,14.6,1.2
+SCA,Consumer Staples,Europe,Sweden,20.8,13.7,0.9
+Tata Consultancy Services,Information Technology,Asia,India,71.2,13.1,3
+Siam Commercial Bank,Financials,Asia,Thailand,16.6,5.7,1.6
+TELUS,Telecommunication Services,North America,Canada,22.3,11,1.3
+Aisin Seiki,Consumer Discretionary,Asia,Japan,10.2,28.1,1
+Daikin Industries,Materials,Asia,Japan,16.7,17.3,1
+LG Chem,Materials,Asia,South Korea,16.4,21.1,1.1
+Vivendi,Telecommunication Services,Europe,France,37.3,31.6,-1.3
+Transocean,Energy,Europe,Switzerland,14.9,9.5,1.4
+Mazda Motor,Consumer Discretionary,Asia,Japan,13.4,26.7,0.9
+Anglo American,Materials,Europe,United Kingdom,35.3,29.3,-0.9
+Evonik,,Europe,Germany,18.3,17.1,0.7
+Grupo Aval,Financials,South America,Colombia,13.3,9,0.8
+Compass Group,Consumer Discretionary,Europe,United Kingdom,27.3,27.4,0.7
+Kasikornbank,Financials,Asia,Thailand,13.3,6.9,1.3
+Commerzbank,Financials,Europe,Germany,21.7,21.6,0.1
+Ferrovial,Industrials,Europe,Spain,16.1,10.8,1
+Xcel Energy,Utilities,North America,United States,15.1,10.9,0.9
+J Sainsbury,Consumer Staples,Europe,United Kingdom,9.8,37.2,1
+Lotte Shopping,Consumer Discretionary,Asia,South Korea,9.3,25.8,0.7
+Franklin Resources,Financials,North America,United States,34.3,8.2,2.2
+Daiwa House Industry,Industrials,Asia,Japan,11.1,25.4,0.8
+Sabanci Holding,Industrials,Europe,Turkey,8.1,13,0.9
+Grupo Modelo,Consumer Staples,North America,Mexico,41.1,6.9,3.8
+Carlsberg,Consumer Staples,Europe,Denmark,15.2,11.8,1
+Lenovo Group,Information Technology,Asia,Hong Kong,11.9,37.2,0.8
+Al Rajhi Bank,Financials,Asia,Saudi Arabia,30.1,4,2
+Hartford Financial Services,Financials,North America,United States,15.9,26.4,0.3
+Kingfisher,Consumer Discretionary,Europe,United Kingdom,17,17.4,1.1
+Keppel Corp,Industrials,Asia,Singapore,15.6,9.9,1.5
+Simon Property Group,Financials,North America,United States,51.8,5.2,1.3
+Tenaris,Energy,Europe,Luxembourg,26.2,10.6,1.6
+Regions Financial,Financials,North America,United States,16,5.6,1.1
+Telecom Italia,Telecommunication Services,Europe,Italy,22.8,31.1,-0.9
+Southwest Airlines,Industrials,North America,United States,16.8,17.7,0.8
+Western Digital,Information Technology,North America,United States,22.1,15.3,1
+Porsche Automobil Holding,Consumer Discretionary,Europe,Germany,32.3,0,3.2
+Tokyo Gas,Utilities,Asia,Japan,12.5,20.6,1
+Woodside Petroleum,Energy,Australia,Australia,29.4,6.2,1.7
+Deutsche Lufthansa,Industrials,Europe,Germany,12.3,39.9,0.4
+Falabella,Consumer Discretionary,South America,Chile,21.6,13.2,0.9
+Bankia,Financials,Europe,Spain,24.3,5.1,0.7
+Potash of Saskatchewan,Materials,North America,Canada,30.1,7.3,1.8
+Sumitomo Electric,Consumer Discretionary,Asia,Japan,12,25.2,0.6
+Public Bank,Financials,Asia,Malaysia,20.6,4.6,1.3
+Alpha Bank,Financials,Europe,Greece,10.5,5.2,3
+Air Products & Chemicals,Materials,North America,United States,25.4,10.2,1
+Sumitomo Realty,Financials,Asia,Japan,18.6,8.3,0.7
+Publicis Groupe,Consumer Discretionary,Europe,France,18.4,9.2,1.1
+Entergy,Utilities,North America,United States,12,11.4,0.7
+ASML Holding,Information Technology,Europe,Netherlands,41.2,7,1.6
+SLM,Financials,North America,United States,10.6,5.8,1.4
+ConAgra Foods,Consumer Staples,North America,United States,13,17.9,0.8
+Reynolds American,Consumer Staples,North America,United States,28.8,8.2,1.7
+China Resources Power,Utilities,Asia,Hong Kong,12.6,9,1.5
+Samsung Fire & Marine,Financials,Asia,South Korea,9.4,16.7,0.6
+Unum Group,Financials,North America,United States,9.2,10.4,0.9
+Sime Darby,Industrials,Asia,Malaysia,17.1,14.4,1.1
+George Weston,Consumer Staples,North America,Canada,9.5,32.6,0.7
+Evergrande Real Estate,Financials,Asia,China,7.2,11.4,1.6
+Agrium,Materials,North America,Canada,14,15.9,1.1
+Mosaic,Materials,North America,United States,19.9,8.2,1.3
+Anhui Conch Cement,Materials,Asia,China,22.8,9,1.5
+Teck Resources,Materials,North America,Canada,12.6,9.1,0.9
+Banco Popular Espanol,Financials,Europe,Spain,16.3,8.2,0.4
+Swatch Group,Consumer Discretionary,Europe,Switzerland,33.6,9.1,2.1
+National Bank of Greece,Financials,Europe,Greece,13.4,5,1.1
+Stryker,Health Care,North America,United States,31,9,1
+Delphi Automotive,Consumer Discretionary,Europe,United Kingdom,21.3,16.5,1.2
+Spectra Energy,Energy,North America,United States,25.3,5.5,1
+Tyson Foods,Consumer Staples,North America,United States,14.8,34.8,0.9
+FirstEnergy,Utilities,North America,United States,14,14.9,0.4
+Sodexo,Consumer Discretionary,Europe,France,16.5,24.1,0.6
+Biogen Idec,Health Care,North America,United States,73.2,6.9,1.9
+Abertis,Industrials,Europe,Spain,19.7,6.2,0.8
+Astellas Pharma,Health Care,Asia,Japan,26.1,11.7,0.8
+M&T Bank,Financials,North America,United States,16,4.8,1.1
+Murphy Oil,Energy,North America,United States,11.3,16.8,1
+Formosa Chemicals,Materials,Asia,Taiwan,14.1,14.5,0.9
+Hyundai Heavy Industries,Industrials,Asia,South Korea,15.3,49.5,0.3
+Liberty Global,Consumer Discretionary,Europe,United Kingdom,32.1,14.5,-1
+Unibail-Rodamco,Financials,Europe,France,25.2,2.3,1.7
+PKO Bank Polski,Financials,Europe,Poland,17.4,4.9,1
+ThyssenKrupp Group,Industrials,Europe,Germany,15.5,51.6,-2
+Bharti Airtel,Telecommunication Services,Asia,India,21.1,14.3,0.4
+Siam Cement,Materials,Asia,Thailand,15.5,14.1,1.2
+Adecco,Consumer Discretionary,Europe,Switzerland,16,25.9,0.7
+Seadrill,Energy,North America,Bermuda,16.4,5.3,2.7
+Celgene,Health Care,North America,United States,59.5,6.5,1.4
+Axis Bank,Financials,Asia,India,11.5,6.3,1
+Nokia,Information Technology,Europe,Finland,28.1,27.5,-0.8
+MTR,Industrials,Asia,Hong Kong,21.7,5,1.7
+Country Garden Holdings,Financials,Asia,Hong Kong,8,10.2,1.4
+Quanta Computer,Information Technology,Asia,Taiwan,10.3,29.7,0.6
+British Sky Broadcasting,Consumer Discretionary,Europe,United Kingdom,24.2,11.7,1.4
+Mitsubishi Motors,Consumer Discretionary,Asia,Japan,10.3,21,1.1
+JBS,Consumer Staples,South America,Brazil,9.6,43,0.4
+Couche Tard,Consumer Discretionary,North America,Canada,15.3,37.7,0.8
+National Bank of Abu Dhabi,Financials,Asia,United Arab Emirates,17.9,3.2,1.2
+Dollar General,Consumer Discretionary,North America,United States,18.1,17.5,1
+Daqin Railway,Industrials,Asia,China,16,7.9,2
+Metro Group,Consumer Staples,Europe,Germany,13.4,81,-0.1
+Parker-Hannifin,Industrials,North America,United States,18.2,13.1,1
+Bancolombia,Financials,South America,Colombia,13.3,5.9,0.8
+PGE,Utilities,Europe,Poland,12,9.5,1.3
+Asahi Kasei,Materials,Asia,Japan,9.4,19,0.9
+Fast Retailing,Consumer Discretionary,Asia,Japan,36.4,12.6,1
+Whirlpool,Consumer Discretionary,North America,United States,11.9,18.8,0.8
+Sandvik,Industrials,Europe,Sweden,18,13.4,0.8
+China National Building,Materials,Asia,China,5.4,19.2,0.9
+Liberty Media,Consumer Discretionary,North America,United States,15.1,4,8.8
+Kohl's,Consumer Discretionary,North America,United States,11.9,19,0.9
+Genworth Financial,Financials,North America,United States,8.9,9.6,0.6
+BAE Systems,Industrials,Europe,United Kingdom,21.8,26.4,0.3
+Priceline.com,Consumer Discretionary,North America,United States,65.2,6.8,1.9
+Annaly Capital Management,Financials,North America,United States,10.4,3.6,3.7
+Chunghwa Telecom,Telecommunication Services,Asia,Taiwan,23.9,7.7,1.3
+VF,Consumer Discretionary,North America,United States,27.4,11.4,1.2
+Halkbank,Financials,Europe,Turkey,7.9,6.4,1.6
+Bouygues,Industrials,Europe,France,13.4,44.3,-1
+Bank Central Asia,Financials,Asia,Indonesia,23.9,4,1.4
+CME Group,Financials,North America,United States,24.4,2.9,1
+Asahi Group Holdings,Consumer Staples,Asia,Japan,12.8,17.6,0.6
+MegaFon,Telecommunication Services,Asia,Russia,17.1,9.3,1.6
+CenturyLink,Telecommunication Services,North America,United States,19.1,18.1,-0.2
+SK Holdings,Energy,Asia,South Korea,8.6,102.2,0.3
+Insurance Australia Group,Financials,Australia,Australia,11.9,9,0.9
+Yara International,Materials,Europe,Norway,12.2,14.4,1
+XL Group,Financials,Europe,Ireland,8.6,7.5,1.1
+Isuzu Motors,Consumer Discretionary,Asia,Japan,9.7,18,1.2
+Magnit,Consumer Staples,Asia,Russia,22.4,18.2,1.1
+Steinhoff International,Consumer Discretionary,Africa,South Africa,10.5,13,0.9
+Yum Brands,Consumer Discretionary,North America,United States,33.7,13.1,1.1
+Ricoh,Industrials,Asia,Japan,8.4,22,0.6
+AmerisourceBergen,Health Care,North America,United States,15.1,96.1,0.3
+Atlantia,Industrials,Europe,Italy,21.6,4.8,0.8
+Industrial Bank of Korea,Financials,Asia,South Korea,6.4,8.9,0.8
+DTE Energy,Utilities,North America,United States,13.2,9.6,0.7
+Toray Industries,Materials,Asia,Japan,10.8,18.1,0.6
+Northeast Utilities,Utilities,North America,United States,14.2,7.3,0.8
+First Gulf Bank,Financials,Asia,United Arab Emirates,17.5,2.7,1.3
+Seagate Technology,Information Technology,Europe,Ireland,18.7,14,1.6
+VimpelCom,Telecommunication Services,Europe,Netherlands,15.9,21.9,-1.4
+Ooredoo Telecom,Telecommunication Services,Asia,Qatar,12.4,9.3,0.7
+China Cinda Asset Management,,Asia,China,20.1,4,1.2
+Ingersoll-Rand,Industrials,Europe,Ireland,15.9,12.4,0.6
+PTT Global Chemical,Materials,Asia,Thailand,10.1,18,1.1
+Sanlam,Financials,Africa,South Africa,12.1,5.7,0.8
+Banco de Sabadell,Financials,Europe,Spain,13,9.5,0.3
+Li & Fung,Industrials,Asia,Hong Kong,12.5,20.7,0.8
+Liberty Interactive,Consumer Discretionary,North America,United States,14.9,11.3,0.5
+Henderson Land,Financials,Asia,Hong Kong,15.7,3,2.1
+CSR,Industrials,Asia,China,11.6,14.1,0.6
+Erste Group Bank,Financials,Europe,Austria,14.4,12.6,0.1
+Scor,Financials,Europe,France,6.5,12.8,0.7
+China Steel,Materials,Asia,Taiwan,12.9,11.7,0.6
+Technip,Energy,Europe,France,11.4,12.4,0.7
+GD Power Development,Utilities,Asia,China,6.6,10.8,1
+Nucor,Materials,North America,United States,16.1,19.1,0.5
+Hilton Worldwide Holdings,Consumer Discretionary,North America,United States,22.2,9.7,0.4
+China Coal Energy,Materials,Asia,China,7.3,13.2,0.7
+Nan Ya Plastics,Materials,Asia,Taiwan,16.7,10.2,0.7
+Midea Group Co. Ltd.,Consumer Discretionary,Asia,China,12.8,19.6,0.6
+New World Development,Financials,Asia,Hong Kong,8.8,6.4,1.1
+Gap,Consumer Discretionary,North America,United States,18.3,16.1,1.3
+Sekisui House,Industrials,Asia,Japan,8.6,18.3,0.8
+Daiichi Sankyo,Health Care,Asia,Japan,11.6,10.9,0.9
+CRH,Materials,Europe,Ireland,21,23.9,-0.4
+Idemitsu Kosan,Energy,Asia,Japan,3.2,49.9,0.8
+Grupo PÃ£o de AÃ§Ãºcar,Consumer Staples,South America,Brazil,11.7,26.7,0.5
+Bangkok Bank,Financials,Asia,Thailand,10.7,4.6,1.2
+Westfield Group,Financials,Australia,Australia,19.7,2.3,1.5
+KeyCorp,Financials,North America,United States,12.8,4.3,0.9
+DaVita,Health Care,North America,United States,14.8,11.8,0.6
+Yahoo,Information Technology,North America,United States,36.8,4.7,1.4
+Kansai Electric Power,Utilities,Asia,Japan,9.3,32.5,-1.3
+National Bank of Kuwait,Financials,Asia,Kuwait,16.7,2.5,0.8
+Deutsche Boerse,Financials,Europe,Germany,15.5,3,0.6
+Veolia Environnement,Utilities,Europe,France,10.8,29.6,-0.2
+Mobily,Telecommunication Services,Asia,Saudi Arabia,19,6.7,1.8
+Marks & Spencer,Consumer Discretionary,Europe,United Kingdom,12.5,15.9,0.8
+Samba Financial Group,Financials,Asia,Saudi Arabia,13.7,2,1.2
+Baidu,Information Technology,Asia,China,55.8,5.2,1.7
+Resolution,Financials,Europe,United Kingdom,7.2,17.2,0.3
+Northern Trust,Financials,North America,United States,15.6,4,0.7
+Infosys,Information Technology,Asia,India,31.7,8.1,1.7
+American Airlines Group,,North America,United States,17.9,25.8,-1.9
+Fujitsu,Information Technology,Asia,Japan,12.6,47.3,0.2
+Wheelock & Co,Financials,Asia,Hong Kong,8.1,4.3,3.1
+Dentsu,Consumer Discretionary,Asia,Japan,10.8,22.4,0.4
+Wolseley,Materials,Europe,Switzerland,15.2,21,0.6
+Citic Securities,Financials,Asia,China,19,2.7,0.9
+Williams Cos,Energy,North America,United States,28.1,6.9,0.4
+QBE Insurance Group,Financials,Australia,Australia,14.7,16.1,-0.3
+Riyad Bank,Financials,Asia,Saudi Arabia,13.9,2.2,1.1
+Mitsubishi Chemical,Materials,Asia,Japan,6,33.4,0.5
+Solvay,Materials,Europe,Belgium,13.4,15.1,0.4
+Japan Airlines,Industrials,Asia,Japan,9,13.2,1.6
+Dongfeng Motor Group,Consumer Discretionary,Asia,China,12.4,6.1,1.5
+Bombardier,Industrials,North America,Canada,6.7,18.2,0.6
+Devon Energy,Energy,North America,United States,27.6,10.8,0
+Galaxy Entertainment,Consumer Discretionary,Asia,Hong Kong,39.7,8.5,1.3
+Luxottica Group,Consumer Discretionary,Europe,Italy,27.5,9.7,0.7
+"Becton, Dickinson",Health Care,North America,United States,22.6,8.2,0.9
+Grupo Inbursa,Financials,North America,Mexico,16.9,4.4,1.3
+Alcoa,Materials,North America,United States,14.1,23,-2.3
+Thomson Reuters,Consumer Discretionary,North America,United States,28.3,12.7,0.1
+Best Buy,Information Technology,North America,United States,9.2,42.4,0.5
+West Japan Railway,Industrials,Asia,Japan,7.8,13.5,0.6
+Canadian Pacific Railway,Industrials,North America,Canada,26.5,6,0.8
+BRF-Brasil Foods,Consumer Staples,South America,Brazil,17.5,14.1,0.5
+Fosun International,Materials,Asia,China,8.2,8.3,0.9
+Allergan,Health Care,North America,United States,36.9,6.3,1.3
+Citic Pacific,Materials,Asia,Hong Kong,6.5,11.4,0.8
+ItaÃºsa,Industrials,South America,Brazil,22.8,2.6,2.6
+Chinatrust Financial,Financials,Asia,Taiwan,9.5,5.3,0.7
+Allied Irish Banks,Financials,Europe,Ireland,105,5.2,-2.1
+TRW Automotive Holdings,Consumer Discretionary,North America,United States,9.3,17.4,1
+Metallurgical Corp of China,Industrials,Asia,China,5,32.1,0.5
+Bunge,Consumer Staples,North America,United States,11.7,61.4,0.2
+Kao Corp,Consumer Staples,Asia,Japan,18.2,13.5,0.7
+IDGC Holding,Utilities,Asia,Russia,2.4,21.3,0.6
+Kering,Consumer Discretionary,Europe,France,25.8,12.9,0.1
+Hyundai Steel,Materials,Asia,South Korea,7.5,12.4,0.6
+Emirates NBD,Financials,Asia,United Arab Emirates,12.8,4,0.8
+LG Electronics,Consumer Discretionary,Asia,South Korea,10,53.1,0.2
+Motorola Solutions,Information Technology,North America,United States,16.5,8.7,1.1
+Telekom Indonesia,Telecommunication Services,Asia,Indonesia,19.4,7.9,1.4
+Noble Energy,Energy,North America,United States,25.5,4.8,0.9
+EnBW-Energie Baden,Utilities,Europe,Germany,9.7,27.3,0.1
+Barrick Gold,Materials,North America,Canada,20.8,12.6,-10.4
+Cognizant Technology,Information Technology,North America,United States,31.4,8.8,1.2
+International Airlines,Industrials,Europe,United Kingdom,14.3,24.7,0.2
+Mercantil Servicios,Financials,South America,Venezuela,14.4,4.1,1.2
+Peugeot,Consumer Discretionary,Europe,France,6.6,71.8,-3.1
+Murata Manufacturing,Information Technology,Asia,Japan,21.3,8.4,0.9
+Cencosud,Consumer Staples,South America,Chile,9,20.7,0.5
+Tyco International,Industrials,Europe,Switzerland,19.8,10.7,0.6
+Chubu Electric Power,Utilities,Asia,Japan,8.8,28.1,-0.6
+EstÃ©e Lauder Cos,Consumer Staples,North America,United States,26.4,10.4,1
+Skanska,Industrials,Europe,Sweden,9.7,21,0.6
+L-3 Communications,Industrials,North America,United States,10.2,12.6,0.8
+Leucadia National,Industrials,North America,United States,10.1,10.6,0.4
+VMware,Information Technology,North America,United States,48.2,5.2,1
+Kuehne + Nagel,Industrials,Europe,Switzerland,16.9,22.6,0.6
+Eastman Chemical,Materials,North America,United States,13.1,9.4,1.2
+LG Display,Information Technology,Asia,South Korea,9,24.7,0.4
+Cemex,Materials,North America,Mexico,14.5,15.3,-0.8
+Shimao Property Holdings,Financials,Asia,Hong Kong,7.6,6.8,1.2
+Saudi British Bank,Financials,Asia,Saudi Arabia,12.6,1.7,1
+Cameron International,Energy,North America,United States,13.6,9.8,0.7
+Mediolanum,Financials,Europe,Italy,7.1,11.2,0.5
+Discovery Communications,Consumer Discretionary,North America,United States,19.6,5.5,1.1
+China Yangtze Power,Utilities,Asia,China,15.3,3.8,1.5
+Punjab National Bank,Financials,Asia,India,4.5,8.7,0.9
+China CNR,Industrials,Asia,China,7.9,14.6,0.6
+Grupa PZU,Financials,Europe,Poland,12.3,6,1
+Capgemini,Information Technology,Europe,France,11.8,13.4,0.6
+Krung Thai Bank,Financials,Asia,Thailand,8.1,4.5,1.1
+Republic Services,Industrials,North America,United States,12.3,8.4,0.6
+Bank of Baroda,Financials,Asia,India,5.2,7.5,0.9
+Sinohydro Group,Industrials,Asia,China,4.3,19.7,0.6
+Mahindra & Mahindra,Consumer Discretionary,Asia,India,9.9,12.4,0.7
+San Miguel,Industrials,Asia,Philippines,4,17.6,0.9
+Valeo,Consumer Discretionary,Europe,France,11.2,16.1,0.6
+RTL Group,Consumer Discretionary,Europe,Luxembourg,17.7,7.8,1.2
+BÃ¢loise Group,Financials,Europe,Switzerland,6,10.4,0.5
+Longfor Properties,Financials,Asia,China,7.6,6.8,1.3
+Vienna Insurance Group,Financials,Europe,Austria,6.4,13.3,0.4
+Goodyear,Consumer Discretionary,North America,United States,6.7,19.5,0.6
+KPN,Telecommunication Services,Europe,Netherlands,15.2,13.2,-0.3
+AES,Utilities,North America,United States,10.4,16.1,0.3
+Fluor,Industrials,North America,United States,12.4,27.4,0.7
+Abu Dhabi Commercial Bank,Financials,Asia,United Arab Emirates,11.2,2.5,0.9
+Weyerhaeuser,Financials,North America,United States,17.4,8.6,0.6
+Mylan,Health Care,North America,United States,18.3,7,0.6
+Bank of East Asia,Financials,Asia,Hong Kong,9.1,4.1,0.9
+Ensco,Energy,Europe,United Kingdom,12.3,4.9,1.4
+AntarChile,Financials,South America,Chile,6.1,24.4,0.5
+HollyFrontier,Energy,North America,United States,9.6,20.2,0.7
+Woori Finance Holdings,Financials,Asia,South Korea,9.2,10.8,-0.5
+China Shipbuilding Industry,Industrials,Asia,China,13.2,7.9,0.4
+Bank Hapoalim,Financials,Asia,Israel,7.6,5,0.7
+Stanley Black & Decker,Consumer Staples,North America,United States,12.7,11,0.5
+SJM Holdings,Consumer Discretionary,Asia,Hong Kong,16.5,11.3,1
+ALFA,Industrials,North America,Mexico,13.2,15.9,0.5
+Dover,Industrials,North America,United States,14.1,8.7,1
+Bed Bath & Beyond,Consumer Discretionary,North America,United States,14.9,11.7,1.1
+UPM-Kymmene,Materials,Europe,Finland,9.3,13.3,0.4
+ITC,Consumer Staples,Asia,India,46.9,5.8,1.4
+Waste Management,Industrials,North America,United States,19.5,14,0.1
+Mega Financial Holding,Financials,Asia,Taiwan,9.6,2.4,0.7
+LG Corp,Consumer Discretionary,Asia,South Korea,9.5,9,0.8
+Invesco,Financials,North America,United States,16.2,4.7,0.9
+American Capital Agency,Financials,North America,United States,7.7,2,1.3
+Kone,Industrials,Europe,Finland,21.6,9.2,0.9
+Pearson,Consumer Discretionary,Europe,United Kingdom,14.2,7.9,0.5
+Alcatel-Lucent,Information Technology,Europe,France,11.2,19.2,-1.7
+Great Wall Motor,Consumer Discretionary,Asia,China,15.4,8.9,1.3
+Lixil Group,Materials,Asia,Japan,8.5,15.8,0.5
+Voestalpine,Materials,Europe,Austria,7.7,14.9,0.6
+Hanwha Life Insurance,Financials,Asia,South Korea,5.5,12.5,0.4
+Hertz Global Holdings,Financials,North America,United States,12.3,10.8,0.4
+Galp Energia,Energy,Europe,Portugal,14.3,26,0.3
+Formosa Plastics,Materials,Asia,Taiwan,16,7.3,0.7
+AutoZone,Consumer Discretionary,North America,United States,17.8,9.4,1
+Eiffage,Industrials,Europe,France,6.7,18.9,0.3
+Symantec,Information Technology,North America,United States,14,6.8,0.9
+Wipro,Information Technology,Asia,India,23.1,7.1,1.2
+Nielsen Holdings,Consumer Discretionary,North America,United States,17.1,5.8,0.7
+L Brands,Consumer Discretionary,North America,United States,16.7,10.8,0.9
+Origin Energy,Utilities,Australia,Australia,14.5,14,0.2
+UBI Banca,Financials,Europe,Italy,8.9,6.8,0.3
+Rakuten,Consumer Discretionary,Asia,Japan,17.6,5.3,0.4
+Fanuc,Industrials,Asia,Japan,34.4,4.5,1
+Sherwin-Williams,Consumer Discretionary,North America,United States,19.9,10.2,0.7
+Naspers,Consumer Discretionary,Africa,South Africa,47,6.1,0.5
+Actavis,Health Care,Europe,Ireland,36.5,8.7,-0.8
+Tokyu,Industrials,Asia,Japan,7.7,11.2,0.6
+Royal Caribbean Cruises,Consumer Discretionary,North America,United States,12.4,8,0.5
+Axiata Group,Information Technology,Asia,Malaysia,17.7,5.8,0.8
+Datang International Power,Utilities,Asia,China,4.9,12.1,0.6
+Essilor International,Health Care,Europe,France,21.3,6.7,0.8
+Assa Abloy,Industrials,Europe,Sweden,20,7.4,0.7
+Reed Elsevier,Consumer Discretionary,Europe,United Kingdom,17.7,9.4,0.9
+Constellation Brands,Consumer Staples,North America,United States,16.2,4.3,1.9
+SanDisk,Information Technology,North America,United States,18.7,6.2,1
+Applied Materials,Information Technology,North America,United States,25,8.1,0.5
+Whole Foods Market,Consumer Staples,North America,United States,19.4,13.3,0.6
+ICA Gruppen,Consumer Discretionary,Europe,Sweden,7.4,11.9,1.6
+HCP,Financials,North America,United States,17.7,2.1,0.9
+Oi,Telecommunication Services,South America,Brazil,2.3,13.2,0.7
+Bharat Heavy Electricals,Industrials,Asia,India,8,8.9,1.2
+Unipol Gruppo,Financials,Europe,Italy,5.6,26.3,-0.1
+Kweichow Moutai,Consumer Staples,Asia,China,27.2,4.6,2.5
+TD Ameritrade Holding,Financials,North America,United States,18.8,2.9,0.7
+Grupo Televisa,Consumer Discretionary,North America,Mexico,19.4,5.8,0.6
+Marriott International,Consumer Discretionary,North America,United States,16.8,12.8,0.6
+Secom,Industrials,Asia,Japan,13.2,8.3,0.7
+Genuine Parts,Consumer Discretionary,North America,United States,13.3,14.1,0.7
+Ross Stores,Consumer Discretionary,North America,United States,15.5,10.2,0.8
+RusHydro,Utilities,Asia,Russia,6.1,9.8,0.6
+Agilent Technologies,Information Technology,North America,United States,18.8,6.8,0.7
+Textron,Industrials,North America,United States,11.1,12.1,0.5
+Staples,Consumer Discretionary,North America,United States,7.4,23.1,0.6
+Everest Re Group,Financials,North America,Bermuda,8.6,5.3,1.2
+Weatherford International,Energy,Europe,Switzerland,13.5,15.3,-0.3
+Land Securities Group,Financials,Europe,United Kingdom,13.4,1.2,1.2
+WW Grainger,Industrials,North America,United States,17.4,9.4,0.8
+American Tower,Financials,North America,United States,32.2,3.4,0.6
+Jiangxi Copper,Materials,Asia,China,5.8,28.5,0.6
+Bank of Ireland,Financials,Europe,Ireland,14.4,5.8,-0.6
+Chow Tai Fook Jewellery,Consumer Discretionary,Asia,Hong Kong,15.8,9,0.9
+Samsung C&T,Industrials,Asia,South Korea,9.1,26,0.2
+Beiersdorf,Consumer Staples,Europe,Germany,24.7,8.2,0.7
+Computer Sciences,Information Technology,North America,United States,9,13.2,0.7
+Pgnig Group,Energy,Europe,Poland,8.6,10.2,0.6
+Samsung Heavy Industries,Industrials,Asia,South Korea,6.9,13.6,0.6
+CF Industries Holdings,Materials,North America,United States,14.8,5.5,1.5
+Credicorp,Financials,South America,Peru,11,4.5,0.6
+Industries Qatar,Materials,Asia,Qatar,31.3,1.6,2.2
+Hershey,Consumer Staples,North America,United States,23.3,7.1,0.8
+Sinopharm Group,Health Care,Asia,China,7.1,27.1,0.4
+Power Assets Holdings,Utilities,Asia,Hong Kong,18.7,1.3,1.4
+Belgacom,Telecommunication Services,Europe,Belgium,10.7,8.3,0.8
+Areva,Utilities,Europe,France,9.9,12,-0.7
+Rostelecom,Telecommunication Services,Asia,Russia,6.8,10,0.7
+DSM,Materials,Europe,Netherlands,12.1,12,0.4
+CIT Group,Financials,North America,United States,9.7,3.5,0.7
+Nordstrom,Consumer Discretionary,North America,United States,11.9,12.5,0.7
+VakifBank,Financials,Europe,Turkey,4.8,6.3,0.9
+Hanwha Corp,Industrials,Asia,South Korea,2.3,35.4,0.1
+Kobe Steel,Materials,Asia,Japan,4.8,18.1,0.6
+Cemig,Utilities,South America,Brazil,8.7,6.8,1.4
+Genting,Consumer Discretionary,Asia,Malaysia,11.4,5.6,0.6
+Financiere de l'Odet,Industrials,Europe,France,6,13.1,0.6
+Zhejiang Zheneng Electric Power,Utilities,Asia,China,9.2,7.5,0.7
+Boston Properties,Financials,North America,United States,17.7,2.1,0.7
+Starbucks,Consumer Discretionary,North America,United States,55.9,15.3,0
+NEC,Information Technology,Asia,Japan,8,30.6,0
+Valeant Pharmaceuticals,Health Care,North America,Canada,44.6,5.8,-0.9
+News Corp,Consumer Discretionary,North America,United States,10.1,8.8,0.5
+Finatis,Consumer Staples,Europe,France,0.6,65.5,0.1
+Phoenix Group Holdings,Financials,Europe,United Kingdom,2.6,6.9,0.6
+Tesoro,Energy,North America,United States,6.8,38.4,0.4
+GKN,Consumer Discretionary,Europe,United Kingdom,10.9,11.2,0.6
+Nippon Yusen,Industrials,Asia,Japan,4.9,22,0.5
+CSL,Health Care,Australia,Australia,31.1,5,1.2
+Shanghai International Port,Industrials,Asia,China,17.4,4.6,0.9
+NRG Energy,Utilities,North America,United States,10.3,11.8,-0.4
+Banque Saudi Fransi,Financials,Asia,Saudi Arabia,9.7,1.6,0.6
+Dexia,Financials,Europe,Belgium,0.1,20.2,-1.4
+KT Corp,Telecommunication Services,Asia,South Korea,7.3,21.8,-0.1
+Banque nationale de Belgique,Financials,Europe,Belgium,1.9,2.9,1.7
+Huadian Power International,Utilities,Asia,China,3.6,10.8,0.7
+Ryanair Holdings,Industrials,Europe,Ireland,14.7,6.7,0.7
+CarMax,Consumer Discretionary,North America,United States,10.6,12.3,0.5
+Shanghai Electric Group,Industrials,Asia,China,7.3,12.8,0.4
+Investec,Financials,Europe,United Kingdom,6.8,5.4,0.5
+Aluminum Corp of China,Materials,Asia,China,6.6,28.1,0.2
+HermÃ¨s International,Consumer Discretionary,Europe,France,34.8,5,1
+NiSource,Utilities,North America,United States,11.2,5.7,0.5
+Huntington Bancshares,Financials,North America,United States,8.5,2.8,0.6
+RSA Insurance Group,Financials,Europe,United Kingdom,8.7,14.5,-0.5
+Haitong Securities,Financials,Asia,China,14.4,2.1,0.7
+Pentair,Industrials,Europe,Switzerland,15.8,7.5,0.5
+Onex,Financials,North America,Canada,6.2,29,-0.6
+Dassault Aviation,Industrials,Europe,France,14.2,6.1,0.6
+Sumitomo Metal Mining,Materials,Asia,Japan,6.8,8.5,0.9
+Comerica,Financials,North America,United States,9.4,2.6,0.5
+Hong Kong & China Gas,Utilities,Asia,Hong Kong,21.2,3.6,0.9
+Oneok,Energy,North America,United States,12.3,14.6,0.3
+Emaar Properties,Financials,Asia,United Arab Emirates,17.9,2.9,0.7
+Link REIT,Financials,Asia,Hong Kong,11.4,0.9,2.5
+GAIL India,Utilities,Asia,India,8,9.3,0.8
+Uni-President,Consumer Staples,Asia,Taiwan,8.8,14.5,0.5
+Hindalco Industries,Materials,Asia,India,4.8,14.6,0.6
+Turkcell,Telecommunication Services,Europe,Turkey,12.5,6,1.2
+Reinsurance Group of America,Financials,North America,United States,5.6,10.3,0.4
+Johnson Matthey,Materials,Europe,United Kingdom,11.2,19.1,0.5
+Korea Gas,Utilities,Asia,South Korea,5.4,34.8,-0.2
+MGM Resorts,Consumer Discretionary,North America,United States,13,9.8,-0.2
+SM Investments,Consumer Discretionary,Asia,Philippines,12.8,5.8,0.6
+Broadcom,Information Technology,North America,United States,18.3,8.2,0.4
+Bank Negara Indonesia,Financials,Asia,Indonesia,8.5,3.4,0.9
+Canara Bank,Financials,Asia,India,2,6.9,0.5
+Kuwait Finance House,Financials,Asia,Kuwait,12.6,2.8,0.4
+Singapore Airlines,Industrials,Asia,Singapore,9.8,12.2,0.3
+Asustek Computer,Information Technology,Asia,Taiwan,7.5,15.5,0.7
+Antofagasta,Materials,Europe,United Kingdom,13.8,6,0.7
+Fidelity National Information,Consumer Discretionary,North America,United States,15.7,6.1,0.5
+Cathay Pacific Airways,Industrials,Asia,Hong Kong,7.4,13,0.3
+St Jude Medical,Health Care,North America,United States,18.9,5.5,0.7
+CGI Group,Information Technology,North America,Canada,9.6,9.9,0.6
+Noble Group,Industrials,Asia,Hong Kong,6.3,97.9,0.2
+Bank of India,Financials,Asia,India,2.4,6.6,0.5
+Public Storage,Financials,North America,United States,29.2,2,1
+Jeronimo Martins,Consumer Staples,Europe,Portugal,10.6,15.7,0.5
+Bank of Greece,Financials,Europe,Greece,0.4,2.8,1.1
+CapitaLand,Financials,Asia,Singapore,9.8,3.3,0.7
+Schroders,Financials,Europe,United Kingdom,12.5,2.8,0.6
+Coca-Cola Enterprises,Consumer Staples,North America,United States,12.2,8.2,0.7
+Tata Steel,Materials,Asia,India,6.5,23.8,-1.3
+Rockwell Automation,Industrials,North America,United States,17.3,6.5,0.8
+Finmeccanica,Industrials,Europe,Italy,5.8,20.7,0
+Avnet,Information Technology,North America,United States,6.5,26.7,0.5
+Wm Morrison Supermarkets,Consumer Staples,Europe,United Kingdom,8.2,27.7,-0.4
+Canadian Tire,Consumer Discretionary,North America,Canada,7.6,11.4,0.5
+China Oilfield Services,Energy,Asia,China,12.8,4.5,1.1
+Ralph Lauren,Consumer Discretionary,North America,United States,14.7,7.2,0.8
+Showa Shell Sekiyu,Energy,Asia,Japan,3.3,30.3,0.6
+Schindler Holding,Industrials,Europe,Switzerland,17.1,9.5,0.5
+Bank of Yokohama,Financials,Asia,Japan,6.3,2.9,0.6
+Lorillard,Consumer Staples,North America,United States,19.5,5,1.2
+Grupo Carso,Industrials,North America,Mexico,12.1,6.7,1.1
+Banco Popolare,Financials,Europe,Italy,7.3,7.2,-0.8
+Continental Resources,Energy,North America,United States,22.8,3.5,0.8
+CA,Information Technology,North America,United States,14.1,4.6,1
+NHN,Information Technology,Asia,South Korea,24.3,2.3,1.7
+Wynn Resorts,Consumer Discretionary,North America,United States,23,5.6,0.7
+Arab National Bank,Financials,Asia,Saudi Arabia,8,1.6,0.7
+Next,Consumer Discretionary,Europe,United Kingdom,17.2,5.9,0.9
+Weichai Power,Industrials,Asia,China,7.7,9.4,0.6
+Amcor,Materials,Australia,Australia,11.5,11.2,0.5
+Wendel,Financials,Europe,France,7.7,8.5,0.4
+Bidvest Group,Industrials,Africa,South Africa,8.8,17.4,0.5
+Brambles,Consumer Discretionary,Australia,Australia,13.4,5.6,1.3
+Hankyu Hanshin Holdings,Industrials,Asia,Japan,6.8,7.1,0.5
+Qingdao Haier,Consumer Discretionary,Asia,China,7.1,13.8,0.6
+Sun Art Retail Group,Consumer Discretionary,Asia,Hong Kong,11.9,14,0.5
+Power Grid of India,Utilities,Asia,India,9.5,2.4,0.8
+IntercontinentalExchange,Financials,North America,United States,22.2,1.8,0.3
+Rock-Tenn,Materials,North America,United States,7.5,9.6,0.8
+Mattel,Consumer Staples,North America,United States,13.7,6.5,0.9
+Pohjola Bank,Financials,Europe,Finland,7.3,2.6,0.6
+Shaanxi Coal Industry,Materials,Asia,China,6.7,7,1
+CenterPoint Energy,Utilities,North America,United States,10.2,8.1,0.3
+Advanced Info Service,Telecommunication Services,Asia,Thailand,21,4.6,1.2
+Harley-Davidson,Consumer Discretionary,North America,United States,15,5.9,0.7
+DP World,Industrials,Asia,United Arab Emirates,15.1,3.1,0.6
+Chongqing Rural Bank,Financials,Asia,China,4.1,4.3,1
+Legrand,Industrials,Europe,France,16.5,5.9,0.7
+Uralkali,Materials,Asia,Russia,13.1,3.3,1.2
+Kyushu Electric Power,Utilities,Asia,Japan,5.5,17.6,-1.6
+SGS,Consumer Discretionary,Europe,Switzerland,18.9,6.3,0.6
+Terna,Utilities,Europe,Italy,10.9,2.5,0.7
+Grupo Bimbo,Consumer Staples,North America,Mexico,12.8,13.8,0.3
+Guangzhou R&F,Financials,Asia,China,4.6,5.9,1.2
+Mediatek,Information Technology,Asia,Taiwan,24,4.6,0.9
+KGHM Polska Miedz,Materials,Europe,Poland,7.2,7.6,0.9
+Ventas,Financials,North America,United States,18.1,2.8,0.4
+O'Reilly Automotive,Consumer Discretionary,North America,United States,15.9,6.6,0.7
+Newmont Mining,Materials,North America,United States,11.8,8.3,-2.5
+Neste Oil,Energy,Europe,Finland,5.3,23.2,0.7
+Sumitomo Chemical,Materials,Asia,Japan,6,21.9,0.1
+Air France-KLM,Industrials,Europe,France,4.7,34,-2.4
+Shin Kong Financial,Financials,Asia,Taiwan,3,8.5,0.4
+LagardÃ¨re,Consumer Discretionary,Europe,France,5.2,9.5,1.7
+Tingyi Holding,Consumer Staples,Asia,China,16.2,10.9,0.4
+McGraw-Hill Cos,Consumer Discretionary,North America,United States,21.1,4.9,0.9
+Shire,Health Care,Europe,Ireland,29,5,0.7
+Assurant,Financials,North America,United States,4.7,9,0.5
+BorgWarner,Consumer Discretionary,North America,United States,14.4,7.4,0.6
+Cielo,Consumer Discretionary,South America,Brazil,25.3,3.1,1.2
+Bharat Petroleum,Energy,Asia,India,5.4,40.3,0.3
+Dangote Cement,Materials,Africa,Nigeria,24.3,2.4,1.3
+IHI,Industrials,Asia,Japan,6.2,12.9,0.5
+Helvetia Holding,Financials,Europe,Switzerland,4.5,9.1,0.4
+Ashland,Materials,North America,United States,7.8,7.8,0.7
+Latam Airlines,Industrials,South America,Chile,8.2,12.9,-0.3
+Ambac Financial Group,Financials,North America,United States,1.4,1,3.9
+All Nippon Airways,Industrials,Asia,Japan,7.6,16,0.2
+RHB Capital,Financials,Asia,Malaysia,6.6,3,0.6
+Henan Shuanghui Investment,Consumer Staples,Asia,China,14,7.3,0.6
+United Utilities,Utilities,Europe,United Kingdom,9.1,2.6,1.1
+Storebrand,Financials,Europe,Norway,2.6,9,0.3
+Hormel Foods,Consumer Staples,North America,United States,12.9,8.9,0.5
+Intact Financial,Financials,North America,Canada,8.3,7.2,0.4
+Delhaize Group,Consumer Staples,Europe,Belgium,7.3,28.5,0.2
+EletrobrÃ¡s,Utilities,South America,Brazil,4.5,15.3,-2.9
+Norsk Hydro,Materials,Europe,Norway,10.2,11,-0.2
+Petronas Chemicals,Materials,Asia,Malaysia,16.7,4.8,1
+Prologis,Financials,North America,United States,20.4,1.8,0.3
+Randstad Holding,Consumer Discretionary,Europe,Netherlands,10.6,22,0.3
+Sembcorp Industries,Industrials,Asia,Singapore,7.7,8.6,0.7
+Attijariwafa Bank,Financials,Africa,Morocco,7.9,2.8,0.5
+Melco Crown Entertainment,Consumer Discretionary,Asia,Hong Kong,22.1,5.1,0.6
+China Resources Enterprise,Consumer Discretionary,Asia,Hong Kong,6.8,18.9,0.2
+China Eastern Airlines,Industrials,Asia,China,4.8,14.3,0.4
+Mitsubishi Materials,Materials,Asia,Japan,3.7,14.1,0.5
+Celanese,Materials,North America,United States,8.7,6.5,1.1
+Shaw Communications,Consumer Discretionary,North America,Canada,10.9,5.1,0.7
+Prada,Consumer Discretionary,Europe,Italy,20.8,4.7,0.9
+SES,Consumer Discretionary,Europe,Luxembourg,15,2.5,0.8
+Tohoku Electric Power,Utilities,Asia,Japan,4.9,19.9,-0.4
+Lend Lease Group,Financials,Australia,Australia,6,12.1,0.5
+Alleghany,Financials,North America,United States,6.8,4.9,0.6
+Arrow Electronics,Information Technology,North America,United States,6,21.4,0.4
+Boston Scientific,Health Care,North America,United States,18,7.1,-0.1
+Shizuoka Bank,Financials,Asia,Japan,6.1,2.2,0.5
+Stora Enso,Materials,Europe,Finland,8.5,14,-0.1
+Hyundai Engineering,Industrials,Asia,South Korea,5.9,12.7,0.5
+Suntory Beverage & Food,,Asia,Japan,10.5,11.5,0.3
+Chicago Bridge & Iron,Industrials,Europe,Netherlands,9.4,11.1,0.5
+Daito Trust Construction,Industrials,Asia,Japan,7.2,12.8,0.7
+PulteGroup,Industrials,North America,United States,7.5,5.6,2.6
+T Rowe Price,Financials,North America,United States,21.8,3.5,1
+Huishang Bank Corporation Limited,Financials,Asia,China,5,3.2,0.8
+Quest Diagnostics,Health Care,North America,United States,8.7,7.1,0.8
+CMS Energy,Utilities,North America,United States,7.8,6.6,0.5
+PKN Orlen,Energy,Europe,Poland,6,36,0.1
+Arab Bank,Financials,Asia,Jordan,7,2.2,0.5
+China Southern Airlines,Industrials,Asia,China,3.7,15.9,0.3
+Yamato Holdings,Industrials,Asia,Japan,9.8,13.8,0.3
+Kawasaki Heavy Industries,Industrials,Asia,Japan,6.3,13.6,0.4
+Brenntag,Materials,Europe,Germany,9.6,13,0.5
+Zimmer Holdings,Health Care,North America,United States,16.1,4.6,0.8
+Bank of Ningbo,Financials,Asia,China,4.1,3.9,0.8
+General Growth Properties,Financials,North America,United States,19.5,2.5,0.3
+Rexel,Information Technology,Europe,France,7.4,17.3,0.3
+Charter Communications,Consumer Discretionary,North America,United States,13.6,8.2,-0.2
+NetApp,Information Technology,North America,United States,12.3,6.4,0.6
+Starwood Hotels,Consumer Discretionary,North America,United States,15.4,6.1,0.6
+Gjensidige Forsikring,Financials,Europe,Norway,10.2,3.8,0.6
+MOL Hungarian Oil,Energy,Europe,Hungary,5.6,24.2,0.1
+Coach,Consumer Discretionary,North America,United States,13.8,5,1
+London Stock Exchange,Financials,Europe,United Kingdom,9,1.4,0.3
+Uniqa,Financials,Europe,Austria,4.1,8.5,0.4
+New York Community,Financials,North America,United States,7.1,1.9,0.5
+Campbell Soup,Consumer Staples,North America,United States,14,8.3,0.5
+Keyence,Information Technology,Asia,Japan,25.5,2.6,0.8
+Santos,Energy,Australia,Australia,12.1,3.5,0.5
+Dollar Tree,Consumer Discretionary,North America,United States,10.8,7.8,0.6
+Taishin Financial Holdings,Financials,Asia,Taiwan,3.6,2.5,0.6
+Sharp,Consumer Discretionary,Asia,Japan,5.1,29.2,-1.1
+Bank of Nanjing,Financials,Asia,China,3.7,3.3,0.7
+Delta Lloyd,Financials,Europe,Netherlands,5.5,8.2,0.2
+Industrivarden,Financials,Europe,Sweden,8,1.8,1.9
+SMC Corp,Industrials,Asia,Japan,18.2,3.9,0.9
+SÃ¼dzucker,Consumer Staples,Europe,Germany,5.7,10.4,0.6
+AmBank Group,Financials,Asia,Malaysia,6.6,2.6,0.5
+Western Union,Consumer Discretionary,North America,United States,9.2,5.5,0.8
+Suning Appliance,Consumer Discretionary,Asia,China,8.6,17.1,0.2
+Turk Telekom,Telecommunication Services,Europe,Turkey,9.9,6.9,0.7
+First Republic Bank,Financials,North America,United States,7.3,1.6,0.5
+Fiserv,Information Technology,North America,United States,14.6,4.8,0.7
+Doosan,Industrials,Asia,South Korea,2.7,20,0.1
+Mediobanca,Financials,Europe,Italy,9.8,4.4,0
+Vedanta Resources,Materials,Europe,United Kingdom,4,13.7,-0.2
+Osaka Gas,Utilities,Asia,Japan,7.8,14.9,0.2
+EasyJet,Industrials,Europe,United Kingdom,11.7,6.6,0.6
+Asahi Glass,Materials,Asia,Japan,6.7,13.5,0.2
+BYD,Consumer Discretionary,Asia,China,17.2,8.4,0.1
+PartnerRe,Financials,North America,Bermuda,5.2,5.8,0.7
+Wisconsin Energy,Utilities,North America,United States,10.5,4.5,0.6
+Fairfax Financial,Financials,North America,Canada,9.8,5.8,-0.6
+Kinnevik,Financials,Europe,Sweden,10.2,0.2,1.3
+Dongbu Insurance,Financials,Asia,South Korea,3.7,11.1,0.3
+Colruyt,Consumer Staples,Europe,Belgium,8.9,11.1,0.5
+Noble,Energy,Europe,Switzerland,8.1,4.2,0.8
+BCI-Banco Credito,Financials,South America,Chile,6.1,3.2,0.6
+Molson Coors Brewing,Consumer Staples,North America,United States,10.8,4.2,0.6
+Bank Leumi,Financials,Asia,Israel,5.8,4.6,0.4
+Eurazeo,Financials,Europe,France,5.8,5.7,0.7
+Hong Kong Exchanges,Financials,Asia,Hong Kong,17.9,1,0.6
+Sears Holdings,Consumer Discretionary,North America,United States,5.2,36.2,-1.4
+Alliance Data Systems,Consumer Discretionary,North America,United States,14.5,4.3,0.5
+El Puerto de Liverpool,Consumer Discretionary,North America,Mexico,14.3,5.8,0.6
+Arch Capital Group,Financials,North America,Bermuda,7.7,3.5,0.7
+FMC Technologies,Energy,North America,United States,12.5,7.1,0.5
+Verbund,Utilities,Europe,Austria,7.2,4.3,0.8
+Kintetsu,Industrials,Asia,Japan,6.7,11.9,0.3
+HCL Technologies,Information Technology,Asia,India,16.6,4.7,0.7
+Experian,Consumer Discretionary,Europe,Ireland,18,4.8,0.7
+E-mart,Consumer Discretionary,Asia,South Korea,6.3,11.9,0.4
+W&W-WÃ¼stenrot,Financials,Europe,Germany,2.3,9,0.2
+Sabesp,Utilities,South America,Brazil,6.5,5.3,1
+Red ElÃ©ctrica,Utilities,Europe,Spain,11,2.3,0.7
+Intuit,Information Technology,North America,United States,22.4,4.2,0.7
+Goldcorp,Materials,North America,Canada,19.9,3.8,-2.7
+Dai Nippon Printing,Consumer Discretionary,Asia,Japan,6.1,14.7,0.3
+Quinenco,Industrials,South America,Chile,3.5,8.6,0.3
+Mitsubishi UFJ Lease,Financials,Asia,Japan,4.3,7.2,0.4
+Saputo,Consumer Staples,North America,Canada,9.8,8.5,0.5
+Delta Electronics,Information Technology,Asia,Taiwan,14.9,5.8,0.5
+CPFL Energia,Utilities,South America,Brazil,7.8,7.2,0.4
+Chiba Bank,Financials,Asia,Japan,5.2,2.2,0.5
+Global Logistic Properties,Financials,Asia,Singapore,9.9,0.6,0.7
+Advanced Semiconductor,Information Technology,Asia,Taiwan,8.6,7.4,0.5
+Enka,Industrials,Europe,Turkey,9.6,6.5,0.7
+Henry Schein,Health Care,North America,United States,10.2,9.6,0.4
+Lear,Consumer Discretionary,North America,United States,7.1,16.2,0.4
+Hyundai Glovis,Industrials,Asia,South Korea,8.6,11.7,0.4
+Amadeus IT Holdings,Information Technology,Europe,Spain,18.9,4.1,0.7
+Hang Lung Group,Financials,Asia,Hong Kong,6.8,1.3,0.6
+Autoliv,Consumer Discretionary,Europe,Sweden,9.5,8.8,0.5
+Inner Mongolia Yili,Consumer Staples,Asia,China,12.1,7.3,0.5
+Zoomlion Heavy Industry,Industrials,Asia,China,6.1,6.2,0.6
+Braskem,Materials,South America,Brazil,5.3,19,0.2
+Doosan Heavy Industries,Industrials,Asia,South Korea,3.5,17.5,0.1
+Metalurgica Gerdau,Materials,South America,Brazil,2.9,18.5,0.2
+Alrosa,Materials,Asia,Russia,7.8,5,1
+Ameren,Utilities,North America,United States,9.9,5.8,0.3
+Sojitz,Industrials,Asia,Japan,2.1,24.3,0.2
+Caltex Australia,Energy,Australia,Australia,5.4,23.5,0.5
+Fidelity National Financial,Financials,North America,United States,8.9,8.6,0.4
+Nidec,Industrials,Asia,Japan,18,8.5,0.2
+Hebei Iron & Steel,Materials,Asia,China,3.3,17.4,0
+American Financial Group,Financials,North America,United States,5.2,5,0.5
+Encana,Energy,North America,Canada,15.8,5.7,0.2
+Top Frontier Investment Holdings,,Asia,Philippines,0.7,16.7,0
+WR Berkley,Financials,North America,United States,5.3,6.4,0.5
+Moody's,Consumer Discretionary,North America,United States,17.3,3,0.8
+Espirito Santo Financial,Financials,Europe,Luxembourg,1.3,7.8,-0.1
+Jacobs Engineering,Industrials,North America,United States,8.4,12.1,0.4
+Beijing Enterprises,Utilities,Asia,Hong Kong,11.4,4.9,0.5
+China Taiping Insurance,Financials,Asia,Hong Kong,4.4,11.9,0.2
+ATOS,Information Technology,Europe,France,8.9,11.4,0.3
+Flextronics International,Information Technology,Asia,Singapore,5.6,24.7,0.3
+Want Want China,Consumer Staples,Asia,China,20.3,3.8,0.7
+Yamaha Motor,Consumer Discretionary,Asia,Japan,5.4,14.4,0.5
+Julius Baer Group,Financials,Europe,Switzerland,9.6,2.7,0.2
+S-Oil,Energy,Asia,South Korea,6.6,28.5,0.3
+Direct Line Insurance,Financials,Europe,United Kingdom,6,6.1,0.5
+Dr Pepper Snapple Group,Consumer Staples,North America,United States,10.7,6,0.6
+Pegatron,Information Technology,Asia,Taiwan,3.5,32.2,0.3
+Nintendo,Consumer Discretionary,Asia,Japan,16.6,6.1,0
+Banca MPS,Financials,Europe,Italy,4.5,6.7,-1.9
+BPI,Financials,Asia,Philippines,7.9,1.5,0.4
+Cincinnati Financial,Financials,North America,United States,7.8,4.5,0.5
+Hindustan Petroleum,Energy,Asia,India,1.7,35,0.1
+Mondi,Materials,Europe,United Kingdom,8.4,8.6,0.5
+Anadolu Efes,Consumer Staples,Europe,Turkey,6.7,4.8,1.4
+HAL Trust,Financials,Europe,Netherlands,9.8,5.5,0.6
+Crown Castle International,Telecommunication Services,North America,United States,25,3,0.1
+Lennar,Industrials,North America,United States,8.3,6.3,0.5
+Equity Residential,Financials,North America,United States,21.1,2.4,-0.2
+Cosmo Oil,Energy,Asia,Japan,1.5,35.4,0
+Zain,Telecommunication Services,Asia,Kuwait,9.7,4.4,0.8
+ZTE,Information Technology,Asia,Hong Kong,7.2,12.1,0.2
+Industrial Alliance Insurance,Financials,North America,Canada,4.1,6.3,0.4
+Wuliangye Yibin,Consumer Staples,Asia,China,10.5,3.8,1.5
+Intuitive Surgical,Health Care,North America,United States,18.9,2.3,0.7
+Oriental Land,Consumer Discretionary,Asia,Japan,13.7,4.7,0.7
+PLDT,Telecommunication Services,Asia,Philippines,13.2,4,0.8
+Power Finance,Consumer Discretionary,Asia,India,4.2,3.2,0.8
+CH Robinson Worldwide,Industrials,North America,United States,7.7,12.8,0.4
+Sino-Ocean Land Holdings,Financials,Asia,China,3.9,5.1,0.7
+Union Bank of India,Financials,Asia,India,1.4,5.2,0.4
+CP All,Consumer Discretionary,Asia,Thailand,12.1,8.9,0.3
+Ajinomoto,Consumer Staples,Asia,Japan,8.9,10.5,0.3
+Oji Holdings,Materials,Asia,Japan,4.6,13.3,0.3
+Adani Enterprises,Industrials,Asia,India,6.5,8.6,0.3
+Ingram Micro,Information Technology,North America,United States,4.6,42.6,0.3
+Avalonbay Communities,Financials,North America,United States,17,1.4,0.4
+Host Hotels & Resorts,Financials,North America,United States,15.6,5.3,0.3
+Brown-Forman,Consumer Staples,North America,United States,19.1,3,0.6
+JM Smucker,Consumer Staples,North America,United States,10.1,5.7,0.6
+Saudi Arabian Fertilizers,Materials,Asia,Saudi Arabia,14.3,1.1,0.8
+WÃ¤rtsilÃ¤,Industrials,Europe,Finland,11,6.2,0.5
+Mead Johnson Nutrition,Consumer Staples,North America,United States,17.3,4.2,0.6
+Analog Devices,Information Technology,North America,United States,16.9,2.6,0.7
+Xiamen C&D,Industrials,Asia,China,2.4,16.2,0.4
+Clorox,Consumer Staples,North America,United States,11.4,5.7,0.6
+Century Tokyo Leasing,Financials,Asia,Japan,3,8,0.4
+Amphenol,Information Technology,North America,United States,14.6,4.6,0.6
+Hong Leong Financial,Financials,Asia,Malaysia,5.1,2.5,0.5
+Novolipetsk Steel,Materials,Asia,Russia,7.5,10.9,0.2
+Harbin Bank,Financials,Asia,China,1.1,2.6,0.5
+Banco Comercial Portugues,Financials,Europe,Portugal,6.3,5,-1
+Mitsui OSK Lines,Industrials,Asia,Japan,4.7,17.1,-0.9
+TUI,Consumer Discretionary,Europe,Germany,4.3,24.4,0
+First Quantum Minerals,Materials,North America,Canada,10.7,3.6,0.5
+Southwestern Energy,Energy,North America,United States,16.2,3.1,0.7
+Kotak Mahindra Bank,Financials,Asia,India,9.9,2.9,0.4
+Agile Property Holdings,Financials,Asia,Hong Kong,2.9,5.4,0.8
+Dubai Islamic Bank,Financials,Asia,United Arab Emirates,6.8,1.3,0.4
+CJ Corp,Consumer Staples,Asia,South Korea,3.7,17.2,0.1
+Bank of Ayudhya,Financials,Asia,Thailand,7,3.1,0.4
+Raymond James Financial,Financials,North America,United States,7.8,4.6,0.4
+Thai Beverage,Consumer Staples,Asia,Thailand,12.1,5.1,0.6
+Michael Kors Holdings,Consumer Discretionary,Asia,Hong Kong,19.4,3,0.6
+Bankinter,Financials,Europe,Spain,7.4,3,0.3
+SKF Group,Industrials,Europe,Sweden,11.7,9.8,0.1
+Health Care REIT,Financials,North America,United States,17.3,2.9,0.1
+Chugoku Electric Power,Utilities,Asia,Japan,4.9,12.5,-0.2
+Gemdale,Financials,Asia,China,5,6.3,0.5
+Shinsei Bank,Financials,Asia,Japan,5.1,3.5,0.4
+AutoNation,Consumer Discretionary,North America,United States,6.5,17.5,0.4
+OTP Bank,Financials,Europe,Hungary,5.3,6.2,0.3
+DSME,Industrials,Asia,South Korea,5.9,14,0.2
+Greentown China Holdings,Financials,Asia,China,2.5,4.7,0.8
+Delek Group,Financials,Asia,Israel,4.7,10.7,0.2
+Empire,Consumer Staples,North America,Canada,5.6,18.6,0.3
+Eisai,Health Care,Asia,Japan,10.8,6,0.4
+MISC,Industrials,Asia,Malaysia,9.4,2.8,0.7
+Belle International Holdings,Consumer Discretionary,Asia,Hong Kong,8.4,5.9,0.7
+Essar Energy,Energy,Africa,Mauritius,1.5,27.8,-0.3
+CONSOL Energy,Materials,North America,United States,9.1,4.4,0.7
+Shoprite Holdings,Consumer Staples,Africa,South Africa,8.9,10.1,0.4
+Oil & Gas Development,Energy,Asia,Pakistan,10.8,2.4,1.1
+China Cosco Holdings,Industrials,Asia,China,5.5,10.1,0
+Nikon,Consumer Discretionary,Asia,Japan,6.4,10,0.5
+Masraf Al Rayan,Financials,Asia,Qatar,8.5,0.6,0.5
+Taisei,Industrials,Asia,Japan,5.2,15.1,0.3
+GF Securities,Financials,Asia,China,9.5,1.2,0.4
+Westfield Retail Trust,Financials,Australia,Australia,8.3,0.5,0.7
+Petrofac,Energy,Europe,United Kingdom,8.2,6.3,0.6
+Zions Bancorp,Financials,North America,United States,5.8,2.3,0.4
+IDBI Bank,Financials,Asia,India,1.7,5.2,0.3
+BBMG,Materials,Asia,China,4.7,7,0.5
+Savola Group,Consumer Staples,Asia,Saudi Arabia,9.8,7,0.5
+Sun Pharma Industries,Health Care,Asia,India,19.9,2.1,0.5
+Vornado Realty,Financials,North America,United States,18.6,2.7,0.1
+First Financial Holding,Financials,Asia,Taiwan,5.5,1.6,0.4
+Canadian Oil Sands,Energy,North America,Canada,10.1,3.9,0.8
+China Merchants Property,Financials,Asia,China,5,4.6,0.7
+Pirelli & C,Consumer Discretionary,Europe,Italy,7.7,8.2,0.4
+OMRON,Information Technology,Asia,Japan,9.2,7.6,0.4
+Seiko Epson,Industrials,Asia,Japan,6.2,10,0.5
+Popular,Financials,North America,Puerto Rico,3.2,2.5,0.6
+Hoya,Information Technology,Asia,Japan,13.3,4.2,0.7
+Juniper Networks,Information Technology,North America,United States,13.2,4.7,0.4
+Saudi Arabian Mining,Materials,Asia,Saudi Arabia,9,1.5,0.4
+Metro Inc,Consumer Staples,North America,Canada,5.2,11.1,0.7
+Universal Health,Health Care,North America,United States,8.1,7.3,0.5
+Givaudan,Materials,Europe,Switzerland,14.3,4.7,0.5
+Petronas Gas,Utilities,Asia,Malaysia,14.7,1.2,0.7
+Severstal,Materials,Asia,Russia,6.3,13.3,0.1
+Regeneron Pharmaceuticals,Health Care,North America,United States,30.7,2.1,0.4
+PGN,Utilities,Asia,Indonesia,11.2,3,0.9
+Nitto Denko,Materials,Asia,Japan,8.2,7.5,0.5
+China National Chemical,Industrials,Asia,China,4.9,9.7,0.6
+Hankook Tire,,Asia,South Korea,7.2,6.5,0.7
+Keurig Green Mountain,,North America,United States,16.3,4.4,0.5
+Torchmark,Financials,North America,United States,7,3.8,0.5
+Infineon Technologies,Information Technology,Europe,Germany,13.7,5.3,0.5
+Aeroports de Paris,Industrials,Europe,France,12.6,3.7,0.4
+Orica,Materials,Australia,Australia,7.4,6.8,0.6
+Paychex,Consumer Discretionary,North America,United States,15.5,2.4,0.6
+KazMunaiGas Exploration,Energy,Asia,Kazakhstan,5.8,5.4,0.9
+Ahli United Bank,Financials,Asia,Bahrain,4.7,1.3,0.6
+Catamaran,Health Care,North America,United States,9.4,14.8,0.3
+Severn Trent,Utilities,Europe,United Kingdom,7.4,2.9,0.7
+Inter Rao,Utilities,Asia,Russia,2.4,20.8,-0.7
+CNO Financial Group,Financials,North America,United States,4.1,4.5,0.5
+Obayashi,Industrials,Asia,Japan,4.2,16,0.1
+JGC,Industrials,Asia,Japan,8.7,6.9,0.5
+Steel Authority of India,Materials,Asia,India,4.9,8.2,0.4
+Abengoa,Industrials,Europe,Spain,4,9.8,0.1
+Zoetis,Health Care,North America,United States,14.7,4.6,0.5
+Medipal Holdings,Health Care,Asia,Japan,3.6,29.5,0.2
+YTL,Utilities,Asia,Malaysia,4.9,6.3,0.5
+Helmerich & Payne,Energy,North America,United States,11.7,3.4,0.7
+TCL Corp,Consumer Discretionary,Asia,China,3.5,13.8,0.3
+Avago Technologies,Information Technology,Asia,Singapore,16.2,2.7,0.6
+Coca-Cola HBC,Consumer Staples,Europe,Switzerland,9.1,9.1,0.3
+Rural Electrification,Financials,Asia,India,3.7,2.5,0.7
+Evraz Group,Materials,Europe,United Kingdom,2,14.5,-0.4
+Xilinx,Information Technology,North America,United States,14.7,2.3,0.6
+Rockwell Collins,Industrials,North America,United States,10.9,4.6,0.6
+Deutsche Annington Immobilien,,Europe,Germany,6.8,1.9,0.6
+LabCorp,Health Care,North America,United States,8.7,5.8,0.6
+Maxis,Telecommunication Services,Asia,Malaysia,16,2.9,0.6
+AGL Energy,Utilities,Australia,Australia,7.8,9.2,0.3
+Ternium,Materials,Europe,Luxembourg,5.9,8.5,0.5
+Family Dollar Stores,Consumer Discretionary,North America,United States,6.6,10.5,0.4
+British Land,Financials,Europe,United Kingdom,11,0.5,0.4
+China International Marine,Industrials,Asia,China,6.2,9.3,0.4
+Aozora Bank,Financials,Asia,Japan,4.7,1.2,0.5
+Electrolux Group,Consumer Discretionary,Europe,Sweden,6.3,16.8,0.1
+Vallourec,Industrials,Europe,France,6.8,7.4,0.3
+Coloplast,Health Care,Europe,Denmark,17.3,2.1,0.5
+Check Point Software,Information Technology,Asia,Israel,13.1,1.4,0.7
+Protective Life,Financials,North America,United States,4.2,4,0.4
+Qantas Airways,Industrials,Australia,Australia,2.2,14.9,-0.3
+PVH,Consumer Discretionary,North America,United States,10.3,8.2,0.1
+Kajima,Industrials,Asia,Japan,3.8,15.3,0.2
+Calpine,Utilities,North America,United States,8.9,6.5,0
+Shanghai Construction,Industrials,Asia,China,2.8,16.2,0.3
+Smith & Nephew,Health Care,Europe,United Kingdom,13.7,4.3,0.6
+CSN,Materials,South America,Brazil,6.2,8,0.2
+Banco Davivienda,Financials,South America,Colombia,5.8,3.1,0.5
+Portugal Telecom,Telecommunication Services,Europe,Portugal,3.8,7,0.4
+NMDC,Materials,Asia,India,9.1,1.9,1
+CCR,Industrials,South America,Brazil,13.2,2.8,0.6
+DR Horton,Industrials,North America,United States,7.2,6.6,0.5
+Unicharm,Consumer Staples,Asia,Japan,10.7,5.8,0.4
+AGCO,Industrials,North America,United States,5.1,10.8,0.6
+Rite Aid,Consumer Staples,North America,United States,6.2,25.4,0.3
+Mohawk Industries,Consumer Discretionary,North America,United States,10,7.3,0.3
+UC Rusal,Materials,Asia,Russia,5.4,9.8,-3.2
+CR Bard,Health Care,North America,United States,11.6,3,0.7
+SCANA,Utilities,North America,United States,7.2,4.5,0.5
+Cheng Shin Rubber Industry Co.,Consumer Discretionary,Asia,Taiwan,10.7,4.5,0.6
+Manpower,Consumer Discretionary,North America,United States,6.5,20.2,0.3
+Bunzl,Consumer Discretionary,Europe,United Kingdom,8.9,9.5,0.3
+Toppan Printing,Consumer Discretionary,Asia,Japan,4.9,15.6,0.2
+Ball,Materials,North America,United States,7.7,8.5,0.4
+Sekisui Chemical,Industrials,Asia,Japan,5.3,11.1,0.5
+Metropolitan Bank & Trust,Financials,Asia,Philippines,4.9,1.9,0.5
+Jiangsu Yanghe Brewery,Consumer Staples,Asia,China,9,2.6,0.9
+Petro Rabigh,Materials,Asia,Saudi Arabia,6.4,13.5,0.1
+UCB,Health Care,Europe,Belgium,15.3,4.5,0.3
+Innolux,Information Technology,Asia,Taiwan,3.2,14.2,0.2
+Stockland Australia,Financials,Australia,Australia,8,1.8,0.5
+Travis Perkins,Consumer Discretionary,Europe,United Kingdom,7.8,8,0.4
+Korean Air,Industrials,Asia,South Korea,2.1,10.9,-0.2
+Zijin Mining Group,Materials,Asia,China,4.6,8.1,0.5
+Flowserve,Industrials,North America,United States,10.8,5,0.5
+Axis Capital Holdings,Financials,North America,Bermuda,5.1,4.2,0.7
+Mail.ru Group Ltd. Sponsored GDR RegS,Information Technology,Asia,Russia,7.7,0.7,1.2
+Yamaguchi Financial,Financials,Asia,Japan,2.3,1.6,0.3
+Markel,Financials,North America,United States,8.3,4.3,0.3
+GEA Group,Industrials,Europe,Germany,9,5.7,0.4
+Sany Heavy Industry,Industrials,Asia,China,6.9,5.8,0.5
+Mashreq Bank,Financials,Asia,United Arab Emirates,5.3,1.9,0.5
+Iliad,Information Technology,Europe,France,16.5,5,0.4
+FonciÃ¨re des RÃ©gions,Financials,Europe,France,5.8,1.2,0.5
+Commercial Bank of Qatar,Financials,Asia,Qatar,5.3,1.4,0.4
+AU Optronics,Information Technology,Asia,Taiwan,3.5,14,0.1
+Wuhan Iron & Steel,Materials,Asia,China,3.4,14.7,0.1
+Nippon Express,Industrials,Asia,Japan,5,17.3,0.3
+Hyundai Marine & Fire,Financials,Asia,South Korea,2.5,10,0.3
+Talisman Energy,Energy,North America,Canada,10.3,4.7,-1.2
+Hellenic Telecom,Telecommunication Services,Europe,Greece,8.1,5.4,0.4
+Garmin,Consumer Discretionary,Europe,Switzerland,11.6,2.6,0.6
+Perrigo,Health Care,Europe,Ireland,20.8,3.8,0.3
+Roper Industries,Industrials,North America,United States,13.4,3.2,0.5
+Wyndham Worldwide,Consumer Discretionary,North America,United States,9.5,5,0.4
+Community Health Sys,Health Care,North America,United States,4.4,13,0.1
+Advance Auto Parts,Consumer Discretionary,North America,United States,9.3,6.5,0.4
+Aldar Properties,Financials,Asia,United Arab Emirates,7.5,1.5,0.6
+Charoen Pokphand Foods,Consumer Staples,Asia,Thailand,6.7,12.7,0.2
+City Developments,Financials,Asia,Singapore,7.4,2.5,0.5
+Tele2,Telecommunication Services,Europe,Sweden,5.5,4.6,2.2
+Adobe Systems,Information Technology,North America,United States,32.8,4,0.3
+Accor,Consumer Discretionary,Europe,France,12,7.4,0.2
+Zodiac Aerospace,Industrials,Europe,France,9.8,5.1,0.5
+Pioneer Natural Resources,Energy,North America,United States,26.5,3.5,-0.8
+Bta Bank,Financials,Asia,Kazakhstan,0.8,1.2,2.5
+Banco Occidental,Financials,South America,Venezuela,11.3,1.6,0.3
+Starwood Property Trust,,North America,United States,4.6,0.6,0.3
+Gecina,Financials,Europe,France,8.2,1,0.4
+STRABAG,Industrials,Europe,Austria,2.7,16.5,0.2
+Cerner,Health Care,North America,United States,19.4,2.9,0.4
+United Rentals,Financials,North America,United States,8.9,5,0.4
+ST Engineering,Industrials,Asia,Singapore,9.5,5.3,0.5
+Caesars Entertainment,Consumer Discretionary,North America,United States,2.8,8.6,-2.9
+Lotte Chemical,Materials,Asia,South Korea,6.2,15,0.3
+Dassault Systemes,Information Technology,Europe,France,14.8,2.7,0.5
+TAQA,Utilities,Asia,United Arab Emirates,2.1,7,-0.7
+EQT,Energy,North America,United States,15,2.1,0.4
+Shimizu,Industrials,Asia,Japan,4.1,15.2,0.1
+Alfresa Holdings,Health Care,Asia,Japan,3.8,25.2,0.2
+Ametek,Industrials,North America,United States,12.9,3.6,0.5
+Fukuoka Financial Group,Financials,Asia,Japan,3.6,2.4,0.3
+Syndicate Bank,Financials,Asia,India,1,3.4,0.4
+Level 3 Communications,Telecommunication Services,North America,United States,9.6,6.3,-0.1
+Remgro,Industrials,Africa,South Africa,9.9,2.2,0.7
+Aramark,,North America,United States,6.6,13.5,0.1
+US Steel,Materials,North America,United States,4,17.4,-1.7
+Acciona,Industrials,Europe,Spain,4.9,8.8,-2.6
+Nomos Bank,Financials,Asia,Russia,3.1,3.4,0.4
+Guangdong Electric Power,,Asia,China,3.3,6.6,0.6
+Shanghai Pharmaceuticals,Consumer Staples,Asia,China,5.8,12.1,0.4
+ITV,Consumer Discretionary,Europe,United Kingdom,12.9,3.7,0.5
+Renesas Electronics,Information Technology,Asia,Japan,12.6,8.4,0
+Crown Resorts,Consumer Discretionary,Australia,Australia,11.2,2.8,0.6
+E-Trade Financial,Financials,North America,United States,6.8,1.9,0.1
+TDC,Telecommunication Services,Europe,Denmark,7.4,4.4,0.6
+Olam International,Consumer Staples,Asia,Singapore,4.2,16,0.3
+Assured Guaranty,Financials,North America,Bermuda,4.7,1.2,0.8
+KLA-Tencor,Information Technology,North America,United States,11.7,2.8,0.6
+Mitsui Chemicals,Materials,Asia,Japan,2.5,15.4,-0.2
+Netease,Information Technology,Asia,China,9.1,1.5,0.7
+Alfa Laval,Industrials,Europe,Sweden,11.5,4.6,0.5
+SDIC Power Holdings,Energy,Asia,China,5,4.2,0.5
+Shenzhen Overseas,Consumer Discretionary,Asia,China,5.5,3.7,0.7
+Kerry Group,Consumer Staples,Europe,Ireland,13.5,7.7,0.1
+Kingdom Holding,Financials,Asia,Saudi Arabia,22.2,0.7,0.2
+SOHO China,Financials,Asia,China,4.3,2.4,1.2
+Hua Nan Financial,Financials,Asia,Taiwan,5.2,1.5,0.3
+Fastenal,Consumer Discretionary,North America,United States,14.8,3.3,0.4
+SinoPac Financial,Financials,Asia,Taiwan,4,1.4,0.4
+China Longyuan Power,Utilities,Asia,China,8.2,3.1,0.3
+BM&F Bovespa,Financials,South America,Brazil,8.7,1,0.5
+China Merchants Holdings,Industrials,Asia,Hong Kong,8.3,1.3,0.5
+Chongqing Changan Auto,Consumer Discretionary,Asia,China,7.7,5.8,0.5
+FCC,Industrials,Europe,Spain,2.9,8.9,-2
+Olympus,Consumer Discretionary,Asia,Japan,10.8,7.1,0.1
+Yanzhou Coal Mining,Materials,Asia,China,4.5,9.4,0.3
+China Life Insurance (Taiwan),Financials,Asia,Taiwan,2.5,6.8,0.2
+NXP Semiconductors,Information Technology,Europe,Netherlands,15.1,4.8,0.3
+Sunac China Holdings,,Asia,China,2,5,0.5
+Interpublic Group,Consumer Discretionary,North America,United States,7.3,7.1,0.3
+Electric Power Development,Utilities,Asia,Japan,4.7,7,0.3
+Quanta Services,Industrials,North America,United States,8,6.5,0.4
+Hengan International Group,Consumer Staples,Asia,China,12.9,2.7,0.5
+Zenith Bank,Financials,Africa,Nigeria,4,2.1,0.6
+Petronas Dagangan,Energy,Asia,Malaysia,9.3,10.3,0.3
+Bendigo & Adelaide Bank,Financials,Australia,Australia,4.3,3.1,0.3
+NÃ¼rnberger,Financials,Europe,Germany,1.1,6.2,0.1
+Whitbread,Consumer Discretionary,Europe,United Kingdom,12.8,3.4,0.5
+Turkish Airlines,Industrials,Europe,Turkey,4.3,9.9,0.4
+Hexagon,Industrials,Europe,Sweden,12.3,3.2,0.5
+Yamada Denki,Information Technology,Asia,Japan,2.9,18.7,0
+Old Republic International,Financials,North America,United States,4.3,5.4,0.4
+Visteon,Consumer Discretionary,North America,United States,4.3,7.4,0.7
+Grifols,Health Care,Europe,Spain,13.2,3.6,0.5
+X5 Retail Group,Consumer Staples,Asia,Russia,4.5,16.8,0.3
+Compal Electronics,Information Technology,Asia,Taiwan,3.1,23.1,0.1
+Angang Steel,Materials,Asia,China,3.6,12.2,0.1
+CBRE Group,Financials,North America,United States,9.2,7.2,0.3
+Sika,Materials,Europe,Switzerland,10.2,5.5,0.4
+Manila Electric,Utilities,Asia,Philippines,7.2,7,0.4
+Shanxi Taigang Stainless,Materials,Asia,China,2.2,17.6,0.1
+Bajaj Auto,Consumer Discretionary,Asia,India,10,3.6,0.6
+Scripps Networks Interactive,Consumer Discretionary,North America,United States,11.4,2.5,0.5
+Cimarex Energy,Energy,North America,United States,10.3,2,0.6
+Union National Bank,Financials,Asia,United Arab Emirates,5.2,1.2,0.4
+Terumo,Health Care,Asia,Japan,8.1,4.6,0.6
+Geberit,Materials,Europe,Switzerland,12.5,2.2,0.5
+Taiwan Mobile,Telecommunication Services,Asia,Taiwan,10.8,3.7,0.5
+American Water Works,Utilities,North America,United States,8.1,2.9,0.4
+Isetan Mitsukoshi Holdings,Consumer Discretionary,Asia,Japan,4.9,13.1,0.3
+Wolters Kluwer,Consumer Discretionary,Europe,Netherlands,8.4,4.7,0.5
+Tenet Healthcare,Health Care,North America,United States,4.2,11.1,-0.1
+China Hongqiao Group,Materials,Asia,China,3.9,4.8,0.9
+E-L Financial,Financials,North America,Canada,2.6,2.1,0.7
+Sigma-Aldrich,Materials,North America,United States,11.2,2.7,0.5
+Petsmart,Consumer Discretionary,North America,United States,6.9,6.9,0.4
+Arca Continental,Consumer Staples,North America,Mexico,9.4,4.7,0.5
+Newell Rubbermaid,Consumer Staples,North America,United States,8.5,5.7,0.4
+Golden Agri-Resources,Consumer Staples,Asia,Singapore,5.9,6.6,0.3
+Bank of Chongqing,Financials,Asia,China,1.7,1.8,0.4
+Hachijuni Bank,Financials,Asia,Japan,2.9,1.7,0.3
+Jyske Bank,Financials,Europe,Denmark,4.1,1.8,0.3
+FBN Holdings,Financials,Africa,Nigeria,2.5,2.3,0.5
+Nippon Paper Industries,,Asia,Japan,2.2,12.4,0.1
+Taiwan Cooperative Financial,Financials,Asia,Taiwan,4.6,2,0.3
+Salesforce.com,Information Technology,North America,United States,35.9,4.1,-0.2
+Public Power,Utilities,Europe,Greece,3.9,7.9,-0.3
+KT&G,Consumer Staples,Asia,South Korea,10.3,3.5,0.5
+Willis Group Holdings,Financials,Europe,United Kingdom,7.9,3.7,0.4
+Israel Corp,Financials,Asia,Israel,4.3,11,-0.5
+Actelion,Health Care,Europe,Switzerland,10.9,1.9,0.5
+Intu Properties plc,Financials,Europe,United Kingdom,6,0.8,0.6
+Cosan,Consumer Staples,South America,Brazil,3.1,14.2,0.1
+Foot Locker,Consumer Discretionary,North America,United States,6.9,6.5,0.4
+Westlake Chemical,Materials,North America,United States,8.9,3.8,0.6
+Alpiq Holding,Utilities,Europe,Switzerland,3.8,10.1,0
+Pembina Pipeline,Energy,North America,Canada,12.1,4.9,0.3
+Smiths Group,Industrials,Europe,United Kingdom,8.4,4.8,0.5
+Suzuken,Health Care,Asia,Japan,3.5,20,0.2
+Joyo Bank,Financials,Asia,Japan,3.9,1.6,0.3
+Rockwood Holdings,Materials,North America,United States,5.6,2.4,1.7
+Songbird Estates plc,Financials,Europe,United Kingdom,3.1,0.6,1
+Mechel,Materials,Asia,Russia,0.5,11.3,-1.7
+Permanent TSB Group,Financials,Europe,Ireland,5.8,1.4,-0.3
+Industrias PeÃ±oles,Materials,North America,Mexico,9.9,5.2,0.4
+Darden Restaurants,Consumer Discretionary,North America,United States,6.8,8.7,0.3
+Two Harbors Investment,Financials,North America,United States,3.8,0.6,0.6
+Embraer,Industrials,South America,Brazil,6.6,6.3,0.4
+World Fuel Services,Consumer Discretionary,North America,United States,3.2,41.5,0.2
+Mizrahi Tefahot Bank,Financials,Asia,Israel,3.1,2.1,0.3
+Gudang Garam,Consumer Staples,Asia,Indonesia,8.7,5.3,0.4
+BCV Group,Financials,Europe,Switzerland,5,1.4,0.3
+Banca Popolare dell'Emilia,Financials,Europe,Italy,4.4,4.3,0
+Dongfang Electric,Industrials,Asia,China,3.9,6.9,0.4
+Sino Land,Financials,Asia,Hong Kong,3.8,0.7,0.6
+ISS,,Europe,Denmark,6.3,14,-0.1
+Wistron,Information Technology,Asia,Taiwan,2,22,0.2
+Novozymes,Health Care,Europe,Denmark,13.8,2.1,0.4
+Capita,Consumer Discretionary,Europe,United Kingdom,12.1,6,0.3
+Hokuhoku Financial Group,Financials,Asia,Japan,2.5,1.9,0.2
+Chang Hwa Bank,Financials,Asia,Taiwan,4.6,1.1,0.3
+SINOPEC Engineering (Group),,Asia,China,5,7.1,0.6
+Altera,Information Technology,North America,United States,11.6,1.7,0.4
+Iyo Bank,Financials,Asia,Japan,3,1.2,0.3
+Chipotle Mexican Grill,Consumer Discretionary,North America,United States,18,3.2,0.3
+LIG Insurance,Financials,Asia,South Korea,1.7,8,0.1
+Linear Technology,Information Technology,North America,United States,11.9,1.3,0.4
+China Mengniu Dairy,Consumer Staples,Asia,Hong Kong,10,7.1,0.3
+China Merchants Securities,Financials,Asia,China,7.7,1.4,0.4
+Lundbergs,Financials,Europe,Sweden,5.9,3.1,0.5
+IOI Group,Consumer Staples,Asia,Malaysia,9.3,3.9,0.5
+GS Holdings,Energy,Asia,South Korea,4.2,8.8,0.3
+Smurfit Kappa Group,Materials,Europe,Ireland,5.8,10.6,0.2
+Beam,Consumer Staples,North America,United States,13.8,2.5,0.4
+Avis Budget Group,Financials,North America,United States,5.3,7.9,0
+Hikvision,Information Technology,Asia,China,11.4,1.5,0.4
+Enagas,Utilities,Europe,Spain,7.3,1.7,0.5
+Vestas Wind Systems,Industrials,Europe,Denmark,9.4,8.1,-0.1
+MMI Holdings,Financials,Africa,South Africa,3.6,4.3,0.3
+Hammerson plc,Financials,Europe,United Kingdom,6.6,0.6,0.5
+Metso,Industrials,Europe,Finland,5.9,7.9,0.4
+Jarden,Consumer Discretionary,North America,United States,8,7.4,0.2
+Huatai Securities,Financials,Asia,China,6.9,1.1,0.3
+Kawasaki Kisen Kaisha,Industrials,Asia,Japan,2,12.8,0.2
+STMicroelectronics,Information Technology,Europe,Switzerland,8.3,8.1,-0.5
+Fortis (Canada),Utilities,North America,Canada,6.1,3.9,0.4
+Harbinger Group,Consumer Staples,North America,United States,1.8,5.7,-0.1
+J Front Retailing,Consumer Discretionary,Asia,Japan,3.6,12.2,0.3
+Porto Seguro,Financials,South America,Brazil,4.6,6.2,0.7
+Crescent Point Energy,Energy,North America,Canada,14.6,2.8,0.1
+Thai Oil,Energy,Asia,Thailand,3.3,13.5,0.3
+Weir Group,Industrials,Europe,United Kingdom,8.9,3.8,0.5
+Aberdeen Asset Management,Financials,Europe,United Kingdom,9.1,2.1,0.5
+NVIDIA,Information Technology,North America,United States,10.3,4.1,0.4
+TDK,Information Technology,Asia,Japan,5.4,9.9,0.1
+K+S,Materials,Europe,Germany,6.2,5.1,0.5
+Harris,Information Technology,North America,United States,7.9,5,0.4
+OCI,,Europe,Netherlands,9.5,5.5,0.3
+Forest Laboratories,Health Care,North America,United States,25.3,3.4,0.2
+Hyosung,Materials,Asia,South Korea,2.5,11.5,-0.2
+DIA,Consumer Staples,Europe,Spain,5.9,13.1,0.3
+Nishi-Nippon City Bank,Financials,Asia,Japan,1.8,1.8,0.2
+Minmetals Development,Industrials,Asia,China,1.9,28.6,0.1
+Expeditors International,Industrials,North America,United States,8,6.1,0.3
+Hopson Development Holdings,Financials,Asia,Hong Kong,2.1,2,0.5
+77 Bank,Financials,Asia,Japan,1.7,1.1,0.1
+Eastman Kodak,Consumer Discretionary,North America,United States,1.4,2.3,2
+Saudi Hollandi Bank,Financials,Asia,Saudi Arabia,5.1,0.8,0.4
+Chugoku Bank,Financials,Asia,Japan,2.6,1.2,0.3
+North Pacific Bank,Financials,Asia,Japan,1.7,1.9,0.2
+Lanxess,Materials,Europe,Germany,6.3,11,-0.2
+OHL Group,Industrials,Europe,Spain,4.4,4.9,0.4
+Aspen Pharmacare Holdings,Health Care,Africa,South Africa,12.1,2.3,0.4
+Alexion Pharmaceuticals,Health Care,North America,United States,30.7,1.5,0.3
+Subsea 7,Energy,Europe,United Kingdom,6.1,6.3,0.3
+Airports of Thailand,Industrials,Asia,Thailand,8.5,1.2,0.5
+Bank of Kyoto,Financials,Asia,Japan,3.1,1.1,0.2
+Burberry Group,Consumer Discretionary,Europe,United Kingdom,10.2,3.4,0.4
+Ezdan Holding Group,Financials,Asia,Qatar,11.6,0.3,0.3
+Cattolica Assicurazioni,Financials,Europe,Italy,1.5,6,0.1
+Tech Data,Information Technology,North America,United States,2.4,26.3,0.2
+Tractor Supply,Consumer Discretionary,North America,United States,10,5.2,0.3
+Hiroshima Bank,Financials,Asia,Japan,2.6,1.3,0.2
+Semen Indonesia,Materials,Asia,Indonesia,8.7,2.3,0.5
+Tobu Railway,Industrials,Asia,Japan,5.1,6,0.3
+Crown Holdings,Materials,North America,United States,6.3,8.7,0.3
+Banca Popolare di Milano,Financials,Europe,Italy,3.2,2.9,0
+Gunma Bank,Financials,Asia,Japan,2.5,1.3,0.2
+Franshion Properties (China),Financials,Asia,Hong Kong,3.1,2.7,0.5
+Cliffs Natural Resources,Materials,North America,United States,3.1,5.6,0.4
+China Communications Services,Telecommunication Services,Asia,China,3.1,11.1,0.4
+Alaska Air Group,Industrials,North America,United States,6.5,5.2,0.5
+Bank Muscat,Financials,Asia,Oman,4,1.1,0.4
+JB Hunt Transport,Industrials,North America,United States,8.6,5.6,0.3
+Nabors Industries,Energy,North America,Bermuda,7.3,6.2,0.1
+SNC-Lavalin Group,Industrials,North America,Canada,6.7,7.7,0
+Federal Grid of UES,Utilities,Asia,Russia,2.8,4.8,-0.2
+SK Networks,Industrials,Asia,South Korea,2.2,23.7,-0.5
+NCR,Information Technology,North America,United States,6.1,6.1,0.4
+Bank Audi,Financials,Asia,Lebanon,2.2,2.3,0.3
+Central Bank of India,Financials,Asia,India,1.1,4.3,0.2
+Masco,Materials,North America,United States,8,8.2,0.3
+BS Financial Group,Financials,Asia,South Korea,2.8,2.2,0.3
+CorpBanca,Financials,South America,Chile,4,2.3,0.3
+China National Materials,Industrials,Asia,China,0.7,8.5,0.1
+Maanshan Iron & Steel,Materials,Asia,China,2,12,0
+G4S,Industrials,Europe,United Kingdom,6.3,11.6,-0.6
+Twitter,,North America,United States,27.6,0.7,-0.6
+Liberbank,Financials,Europe,Spain,1.8,2,0.1
+First Niagara Financial,Financials,North America,United States,3.4,1.6,0.3
+Thomas Cook Group,Consumer Discretionary,Europe,United Kingdom,4.4,14.5,-0.3
+Grupo Elektra,Information Technology,North America,Mexico,7.3,5.6,0.1
+Netflix,Consumer Discretionary,North America,United States,21.8,4.4,0.1
+Petrovietnam Gas,,Asia,Vietnam,7.5,3.1,0.6
+Sumitomo Rubber,Consumer Discretionary,Asia,Japan,3.3,8,0.5
+Yandex NV,Information Technology,Europe,Netherlands,10.2,1.2,0.4
+Aareal Bank,Financials,Europe,Germany,2.7,1.3,0.2
+Banco BPI,Financials,Europe,Portugal,3.8,1.4,0.1
+China Gezhouba,Industrials,Asia,China,2.9,9.1,0.3
+JC Penney,Consumer Discretionary,North America,United States,2.7,11.9,-1.4
+Aurizon Holdings,Industrials,Australia,Australia,10.1,3.7,0.4
+Banca CARIGE,Financials,Europe,Italy,2,1.8,-2
+Tesla Motors,,North America,United States,26.7,2,-0.1
+Israel Discount Bank,Financials,Asia,Israel,2,2.7,0.2
+A2A,Utilities,Europe,Italy,4.1,7.1,0.1
+Blom Bank,Financials,Asia,Lebanon,1.9,1.6,0.3
+Huntsman,Materials,North America,United States,6,11.1,0.1
+JTEKT,Consumer Discretionary,Asia,Japan,5.1,12.5,0.2
+Waters,,North America,United States,9.3,1.9,0.4
+E.Sun Financial,Financials,Asia,Taiwan,3.5,1.2,0.3
+Almarai,Consumer Staples,Asia,Saudi Arabia,10.4,3,0.4
+BOE Technology Group,Information Technology,Asia,China,4.8,5.4,0.4
+SL Green Realty,Financials,North America,United States,9.6,1.5,0.1
+Banrisul,Financials,South America,Brazil,2.3,3.6,0.4
+Equity Assurance,,Africa,Nigeria,0,0,0
+Juroku Bank,Financials,Asia,Japan,1.3,1.1,0.1
+Ruentex Industries,,Asia,Taiwan,2.3,2.6,1.5
+Atco,Utilities,North America,Canada,5.5,4.2,0.4
+Salzgitter,Materials,Europe,Germany,2.4,12.3,-0.7
+Ashikaga Holdings,Financials,Asia,Japan,1.5,1.1,0.2
+Ziggo,,Europe,Netherlands,8.9,2.1,0.5
+Bolsas & Mercados,Financials,Europe,Spain,3.4,0.4,0.2
+Thanachart Capital,Financials,Asia,Thailand,1.4,2.4,0.3
+Brilliance China Automotive Holdings,,Asia,Hong Kong,7.7,1,0.5
+Halyk Bank,Financials,Asia,Kazakhstan,2.2,1.7,0.5
+ARM Holdings,Information Technology,Europe,United Kingdom,24.5,1.1,0.2
+ProSiebenSat1 Media,Consumer Discretionary,Europe,Germany,9.9,3.5,0.4
+Hyundai Hysco,Materials,Asia,South Korea,1.2,3.7,1.5
+Shionogi & Co.,Health Care,Asia,Japan,6.1,3,0.8
+Sega Sammy Holdings,Consumer Discretionary,Asia,Japan,5.8,4.3,0.8
+WABCO Holdings,Consumer Discretionary,North America,United States,6.6,2.7,0.7
+Imperial Holdings,Industrials,Africa,South Africa,3.7,10.2,0.4
+Senshu Ikeda Holdings,Financials,Asia,Japan,1.1,1,0.1
+Hugo Boss,Consumer Discretionary,Europe,Germany,9.2,3.2,0.4
+Magnitogorsk Iron & Steel,Materials,Asia,Russia,1.8,8.4,-0.4
+Nanto Bank,Financials,Asia,Japan,1,0.8,0.1
+ASM International N.V.,Information Technology,Europe,Netherlands,2.6,0.8,1.4
+Emirates Integrated Telecom,Telecommunication Services,Asia,United Arab Emirates,7.5,2.9,0.5
+BayWa,Consumer Discretionary,Europe,Germany,2,19.5,0.2
+Affiliated Managers Group,Financials,North America,United States,11.3,2.2,0.4
+IDB Holding,Financials,Asia,Israel,0,8.9,-0.1
+China Agri-Industries,Materials,Asia,Hong Kong,2.1,12.2,0.2
+Qatar Islamic Bank,Financials,Asia,Qatar,4.9,0.8,0.4
+LinkedIn,Information Technology,North America,United States,22.7,1.5,0
+Lindt & Sprungli,Consumer Staples,Europe,Switzerland,13.2,3.1,0.3
+PBF Energy,Energy,North America,United States,3,19.2,0
+Hyakugo Bank,Financials,Asia,Japan,1,0.8,0.1
+Pacific Rubiales Energy,Energy,North America,Canada,5.9,4.6,0.4
+Far Eastern New Century,Materials,Asia,Taiwan,5.6,8,0.2
+Reliance Steel,Materials,North America,United States,5.5,9.2,0.3
+Ayala,Industrials,Asia,Philippines,7.9,3.2,0.3
+CJ Cheiljedang,Consumer Staples,Asia,South Korea,3.6,9.9,0.1
+Polyus Gold International,Materials,Europe,United Kingdom,10.3,2.6,0.4
+Pinnacle West,Utilities,North America,United States,6,3.5,0.4
+BOK Financial,Financials,North America,United States,4.9,1.3,0.3
+Hudson City Bancorp,Financials,North America,United States,5.2,1.4,0.2
+Guaranty Trust Bank,Financials,Africa,Nigeria,4.7,1.5,0.6
+Ogaki Kyoritsu Bank,Financials,Asia,Japan,1,1,0.1
+Gansu Jiu Steel Group Hongxing Iron & Steel,Materials,Asia,China,2.2,13.1,-0.4
+Realogy Holdings,,North America,United States,6.4,5.3,0.4
+Daishi Bank,Financials,Asia,Japan,1.3,0.9,0.1
+Kansas City Southern,Industrials,North America,United States,11.4,2.4,0.4
+Alinma Bank,Financials,Asia,Saudi Arabia,7.5,0.7,0.3
+Shiga Bank,Financials,Asia,Japan,1.4,0.9,0.1
+Suruga Bank,Financials,Asia,Japan,4.5,1.2,0.3
+Royal Boskalis,Industrials,Europe,Netherlands,6.6,4.7,0.5
+SQM,Materials,South America,Chile,8.3,2.2,0.5
+Toho Bank,Financials,Asia,Japan,0.9,0.6,0.1
+Aboitiz Equity Ventures,Industrials,Asia,Philippines,7,1.9,0.6
+McCormick & Co,Consumer Staples,North America,United States,9.3,4.2,0.4
+Jabil Circuit,Information Technology,North America,United States,3.7,17.5,0.3
+Dick's Sporting Goods,Consumer Discretionary,North America,United States,6.8,6.2,0.3
+Murphy USA,Consumer Discretionary,North America,United States,1.9,18.1,0.2
+Varian Medical Systems,Health Care,North America,United States,8.7,3,0.4
+Hainan Airlines,Industrials,Asia,China,3.6,4.8,0.3
+MeadWestvaco,Materials,North America,United States,6.7,5.4,0.3
+Banca Popolare di Sondrio,Financials,Europe,Italy,2.2,2.1,0.1
+Indian Bank,Financials,Asia,India,0.9,2.8,0.3
+Honbridge Holdings,,Asia,Hong Kong,1.3,0,1.2
+Umicore,Materials,Europe,Belgium,5.6,13,0.2
+Abu Dhabi Islamic Bank,Financials,Asia,United Arab Emirates,4.8,1.3,0.3
+Orient,Financials,Asia,Japan,1.6,2.1,0.1
+VeriSign,Information Technology,North America,United States,7.2,1,0.5
+Great Wall Technology,Consumer Discretionary,Asia,China,0.5,15.1,0
+CVR Energy,Energy,North America,United States,3.8,9,0.4
+Hellenic Petroleum,Energy,Europe,Greece,3.1,12.8,-0.4
+Balfour Beatty,Industrials,Europe,United Kingdom,3.4,13.7,0
+Bilfinger,Industrials,Europe,Germany,5.6,11.2,0.2
+Monster Beverage,Consumer Staples,North America,United States,11.9,2.2,0.3
+SpareBank 1 SR-Bank,Financials,Europe,Norway,2.6,1.3,0.3
+Taiwan Business Bank,Financials,Asia,Taiwan,1.6,0.9,0.1
+Indian Overseas Bank,Financials,Asia,India,1,4.1,0.1
+Nine Entertainment Co. Holdings Pty,,Australia,Australia,2.1,1.3,1.2
+Chinese Estates,Financials,Asia,Hong Kong,4.7,0.9,0.8
+Basler Kantonalbank,Financials,Europe,Switzerland,2.6,0.9,0.1
+Commercial International Bank,Financials,Africa,Egypt,4.8,1.7,0.4
+East West Bancorp,Financials,North America,United States,5.3,1.1,0.3
+Gannett,Consumer Discretionary,North America,United States,6.4,5.2,0.4
+Credito Emiliano,Financials,Europe,Italy,3.4,2,0.2
+Illumina,Health Care,North America,United States,20.1,1.4,0.1
+Nelnet,Financials,North America,United States,1.9,1.1,0.3
+SVB Financial Group,Financials,North America,United States,5.9,1.4,0.2
+Church & Dwight,Consumer Staples,North America,United States,9.4,3.2,0.4
+LG Uplus,Telecommunication Services,Asia,South Korea,4.3,10.5,0.3
+Credit Saison,Financials,Asia,Japan,3.6,3.2,0.4
+Mercuries & Associates,Consumer Discretionary,Asia,Taiwan,0.5,5.2,0
+Guangzhou Automobile Group Co. Ltd.,Consumer Discretionary,Asia,China,7.4,3,0.4
+Hysan Development,Financials,Asia,Hong Kong,4.6,0.4,0.8
+Maxim Integrated Products,Information Technology,North America,United States,9.3,2.4,0.4
+AGL Resources,Utilities,North America,United States,5.8,4.7,0.3
+Supervalu,Consumer Staples,North America,United States,1.8,17,-1.3
+Avon Products,Consumer Staples,North America,United States,6.4,10,-0.1
+OW Bunker,,Europe,Denmark,1.2,17,0.1
+Airgas,Materials,North America,United States,8,5.1,0.3
+Herbalife,Consumer Staples,North America,Cayman Islands,5.9,4.8,0.5
+Tokyo Electron,Information Technology,Asia,Japan,11,5.4,-0.3
+Shanghai Material Trading,Industrials,Asia,China,0.8,16.9,-0.1
+GameStop Corp.,Information Technology,North America,United States,4.9,9,0.4
+Higo Bank,Financials,Asia,Japan,1.2,0.9,0.1
+American Equity Investment,Financials,North America,United States,1.7,1.6,0.3
+UGI,Utilities,North America,United States,5.2,7.5,0.3
+Tullow Oil,Energy,Europe,United Kingdom,11.4,2.6,0.2
+Saudi Investment Bank,Financials,Asia,Saudi Arabia,4.5,0.7,0.3
+Millicom International,Telecommunication Services,Europe,Luxembourg,10.2,5.2,0.2
+DCC,Industrials,Europe,Ireland,4.7,16.7,0.2
+Tauron Group,Utilities,Europe,Poland,3.1,6.1,0.4
+Hanwa,Materials,Asia,Japan,0.8,16.6,0.1
+San-In Godo Bank,Financials,Asia,Japan,1.1,0.9,0.1
+Ecobank Transnational Incorporated,Financials,Africa,Togo,1.4,2.6,0.3
+Kaisa Group Holdings,Financials,Asia,China,1.8,3.2,0.5
+Hunan Valin Steel,Materials,Asia,China,0.9,9.7,0
+Hyakujushi Bank,Financials,Asia,Japan,1.1,0.7,0.1
+Corporation Bank,Financials,Asia,India,0.8,3.1,0.3
+Intouch Holdings,,Asia,Thailand,7.6,0.3,0.5
+Arkema,Materials,Europe,France,7.2,8.1,0.2
+Keiyo Bank,Financials,Asia,Japan,1.2,0.7,0.2
+Outokumpu,Materials,Europe,Finland,2.7,9,-1.3
+Polaris Industries,Consumer Discretionary,North America,United States,9.4,3.8,0.4
+Citrix Systems,Information Technology,North America,United States,10.7,2.9,0.3
+Aurubis,Materials,Europe,Germany,2.4,15.6,-0.3
+Tasnee,Industrials,Asia,Saudi Arabia,6,4.9,0.3
+China Aviation Oil,Industrials,Asia,Singapore,0.6,15.6,0.1
+Musashino Bank,Financials,Asia,Japan,1.1,0.7,0.1
+Ruentex Development,,Asia,Taiwan,2.2,0.5,1
+RMB Holdings,Financials,Africa,South Africa,6.4,0,0.6
+Hokkaido Electric Power,Utilities,Asia,Japan,1.6,6.2,-0.8
+Signature Bank,Financials,North America,United States,6.1,0.8,0.2
+NASDAQ OMX Group,Financials,North America,United States,6.1,3.2,0.4
+Bank of Queensland,Financials,Australia,Australia,3.8,2.5,0.2
+Interactive Brokers Group,Financials,North America,United States,1.2,1.1,0
+Yunnan Baiyao Group,Health Care,Asia,China,9.2,2.6,0.4
+Cablevision Systems Corporation,Consumer Discretionary,North America,United States,4.4,6.2,0.5
+Cheniere Energy,,North America,United States,13.7,0.3,-0.5
+Allahabad Bank,Financials,Asia,India,0.8,3.5,0.2
+Cabot Oil & Gas,Energy,North America,United States,14.3,1.7,0.3
+NetDragon Websoft,Consumer Discretionary,Asia,China,1,0.1,1
+Doha Bank,Financials,Asia,Qatar,4.4,0.7,0.4
+Kagoshima Bank,Financials,Asia,Japan,1.4,0.8,0.1
+Inchcape,Consumer Discretionary,Europe,United Kingdom,5.1,10.2,0.3
+Grupo Argos,Materials,South America,Colombia,8.4,4.1,0.2
+Gemalto,Information Technology,Europe,Netherlands,10.3,3.2,0.3
+Credito Valtellinese,Financials,Europe,Italy,1.1,1.1,0
+"Workday, Inc.",,North America,United States,17.5,0.5,-0.2
+Erie Indemnity,Financials,North America,United States,3.7,6.1,0.2
+Wing Hang Bank,Financials,Asia,Hong Kong,4.9,0.9,0.3
+Verisk Analytics,Consumer Discretionary,North America,United States,10,1.7,0.3
+Inventec,Information Technology,Asia,Taiwan,3.5,14.9,0.2
+Saras,Energy,Europe,Italy,1.6,14.8,-0.4
+Sealed Air,Materials,North America,United States,6.5,7.8,0.1
+Japan Exchange Group,Financials,Asia,Japan,6.6,1.2,0.3
+B/E Aerospace,Industrials,North America,United States,9.3,3.5,0.4
+Dean Foods,Consumer Staples,North America,United States,1.4,9.6,0.3
+Sonae SGPS,Consumer Staples,Europe,Portugal,3.9,6.8,0.4
+Penske Automotive,Consumer Discretionary,North America,United States,3.9,14.7,0.2
+Empresa de Energia de Bogota,Utilities,South America,Colombia,7.4,1,0.5
+WEG,Industrials,South America,Brazil,8.7,3.2,0.4
+Hyprop Investments,,Africa,South Africa,1.8,0.2,1
+Antero Resources,,North America,United States,17.1,0.8,0
+DGB Financial Group,Financials,Asia,South Korea,2,1.7,0.2
+Guangdong Investment,Utilities,Asia,Hong Kong,6.3,1,0.6
+Vertex Pharmaceuticals,Health Care,North America,United States,16.9,1.2,-0.4
+Parmalat,Consumer Staples,Europe,Italy,6.3,7.1,0.3
+Inner Mongolia Baotou Steel,Materials,Asia,China,5.2,6.1,0
+Pou Chen,Consumer Discretionary,Asia,Taiwan,4.1,9.3,0.3
+Pandora,Consumer Staples,Europe,Denmark,8.5,1.6,0.4
+Banque Centrale Populaire,Financials,Africa,Morocco,4.1,2.2,0.2
+Meritz Financial Group,,Asia,South Korea,0.9,5.3,0.1
+Peabody Energy,Materials,North America,United States,4.4,6.9,-0.5
+President Chain Store,Consumer Staples,Asia,Taiwan,7.3,6.9,0.3
+LKQ,Consumer Discretionary,North America,United States,8.2,5.1,0.3
+GS Engineering,Industrials,Asia,South Korea,1.7,8.7,-0.8
+Lawson,Consumer Staples,Asia,Japan,6.9,5.1,0.4
+Shimano,Consumer Discretionary,Asia,Japan,9.3,2.8,0.4
+Japan Securities,Financials,Asia,Japan,0.6,0.2,0.1
+Eutelsat Communications,Consumer Discretionary,Europe,France,7.3,1.7,0.4
+IKB Deutsche,Financials,Europe,Germany,1.1,3.3,-0.2
+Whiting Petroleum,Energy,North America,United States,8.5,2.7,0.4
+Denbury Resources,Energy,North America,United States,5.9,2.5,0.4
+Catlin Group,Financials,North America,Bermuda,3.2,4.1,0.4
+Vietin Bank,Financials,Asia,Vietnam,2.9,2.3,0.3
+Concho Resources,Energy,North America,United States,13.1,2.3,0.2
+Signet Jewelers,Consumer Discretionary,North America,Bermuda,8.6,4.2,0.4
+King Digital Entertainment,,Europe,Ireland,6.2,1.9,0.6
+UCO Bank,Financials,Asia,India,1.2,3.2,0.1
+Gungho Online Entertainment,,Asia,Japan,6.3,1.7,0.6
+OGE Energy,Utilities,North America,United States,7.3,2.9,0.4
+TPK Holding,Information Technology,Asia,Taiwan,1.9,5.9,0.5
+People's United Financial,Financials,North America,United States,4.6,1.3,0.2
+Tsingtao Brewery,Consumer Staples,Asia,China,9.8,4.2,0.3
+WPG Holdings,Information Technology,Asia,Taiwan,2,13.7,0.2
+Yuexiu Property Co.,Financials,Asia,Hong Kong,1.9,2.3,0.5
+Shiseido,Consumer Staples,Asia,Japan,6.9,7.5,0
+First Pacific,Financials,Asia,Hong Kong,4.4,6.2,0.2
+Microchip Technology,Information Technology,North America,United States,9.5,1.9,0.3
+CareFusion,Health Care,North America,United States,8.4,3.6,0.4
+Hokkoku Bank,Financials,Asia,Japan,1.1,0.6,0.1
+Pang Da Automobile Trade,Consumer Discretionary,Asia,China,2.2,9.8,-0.1
+CC Media Holdings,Consumer Discretionary,North America,United States,0.6,6.2,-0.6
+Oriental Bank of Commerce,Financials,Asia,India,1.1,3.5,0.2
+Integrys Energy Group,Utilities,North America,United States,4.8,5.5,0.4
+Bank of Nagoya,Financials,Asia,Japan,0.8,0.6,0.1
+Taiheiyo Cement,Materials,Asia,Japan,4.5,8.4,0.3
+ICAP,Financials,Europe,United Kingdom,4.2,2.3,0
+Financial Street Holdings,Financials,Asia,China,2.5,3.2,0.5
+Luzerner Kantonalbank,Financials,Europe,Switzerland,3.5,0.7,0.2
+Air Canada,Industrials,North America,Canada,1.4,12,0
+Babcock International Group,Consumer Discretionary,Europe,United Kingdom,8.4,4.9,0.3
+Fraport,Industrials,Europe,Germany,6.9,3.4,0.3
+DVB Bank,Financials,Europe,Germany,1.6,1,0.1
+Volksbank,Financials,Europe,Austria,0.3,1.3,-0.5
+Yang Quan Coal Industry,Materials,Asia,China,2.3,13.1,0.2
+St Galler Kantonalbank,Financials,Europe,Switzerland,2.3,0.7,0.1
+Yuanta Financial Holding,Financials,Asia,Taiwan,5,1.2,0.2
+Metcash,Consumer Staples,Australia,Australia,2.1,13.1,0.2
+Bank of Iwate,Financials,Asia,Japan,0.9,0.5,0.1
+Orkla,Industrials,Europe,Norway,8.7,5.6,0.1
+Tim Hortons,Consumer Discretionary,North America,Canada,7.7,3.2,0.4
+Alliant Energy,Utilities,North America,United States,6.3,3.3,0.4
+Dixons Retail,Information Technology,Europe,United Kingdom,3,13,-0.2
+NSK,Industrials,Asia,Japan,5.5,8.5,0.2
+Ackermans & van Haaren,Financials,Europe,Belgium,4.2,0.9,0.4
+Bank Danamon Indonesia,Financials,Asia,Indonesia,3.8,2.5,0.4
+InterContinental Hotels,Consumer Discretionary,Europe,United Kingdom,8.3,1.9,0.4
+Ingredion,Consumer Staples,North America,United States,5,6.3,0.4
+Tosoh,Materials,Asia,Japan,2.3,7.7,0.3
+NHPC,Utilities,Asia,India,3.6,1.1,0.5
+Symetra Financial,Financials,North America,United States,2.3,2.2,0.2
+FIBI Holdings,Financials,Asia,Israel,0.7,1.4,0.1
+SBI Holdings,Financials,Asia,Japan,2.6,2.3,0.2
+Laurentian Bank,Financials,North America,Canada,1.2,1.4,0.1
+LS Corp,Industrials,Asia,South Korea,2.3,10.5,0.1
+BEKB-BCBE,Financials,Europe,Switzerland,2.2,0.7,0.1
+City National,Financials,North America,United States,4.4,1.2,0.2
+Hero Motocorp,Consumer Discretionary,Asia,India,7.5,4.2,0.4
+CST Brands,Consumer Discretionary,North America,United States,2.4,12.8,0.1
+Aryzta,Consumer Staples,Europe,Switzerland,8.1,6,0.1
+Edwards Lifesciences,Health Care,North America,United States,7.8,2,0.4
+New Media Investment Group,,North America,United States,0.5,0.5,0.8
+Pall,,North America,United States,10,2.7,0.3
+Silver Wheaton,Materials,North America,Canada,8.2,0.7,0.4
+DSV,Industrials,Europe,Denmark,5.6,8.1,0.3
+Amdocs,Information Technology,North America,United States,7.4,3.4,0.4
+EMS-Chemie Holding,Materials,Europe,Switzerland,8.8,2,0.4
+Securitas,Consumer Discretionary,Europe,Sweden,4.3,10.1,0.3
+Hanjin Shipping,Industrials,Asia,South Korea,0.8,9.4,-0.6
+Newcrest Mining,Materials,Australia,Australia,6.9,3.8,-5.8
+Yamanashi Chuo Bank,Financials,Asia,Japan,0.8,0.5,0.1
+Kesko,Consumer Staples,Europe,Finland,4.4,12.4,0.2
+Andritz,Industrials,Europe,Austria,6.5,7.6,0.1
+Frontier Communications,Telecommunication Services,North America,United States,5.6,4.8,0.1
+Oita Bank,Financials,Asia,Japan,0.6,0.5,0.1
+Tongling Nonferrous Metals,Materials,Asia,China,2.1,12.4,0.1
+Kimberly-Clark de Mexico,Consumer Staples,North America,Mexico,8.4,2.3,0.4
+Kuwait Projects,Financials,Asia,Kuwait,3.9,1.6,0.1
+Packaging Corp of America,,North America,United States,7,3.7,0.4
+Valiant Holding,Financials,Europe,Switzerland,1.6,0.6,0.1
+Daelim Industrial,Industrials,Asia,South Korea,2.8,9,0
+Brunswick,Consumer Discretionary,North America,United States,4.3,3.9,0.8
+Motor Oil,Energy,Europe,Greece,1.5,12.3,0
+Alliance Global Group,Industrials,Asia,Philippines,6.6,2.5,0.5
+Hanesbrands,Consumer Discretionary,North America,United States,7.7,4.6,0.3
+Wanhua Chemical Group,Materials,Asia,China,6.3,3.2,0.5
+NCC Group,Industrials,Europe,Sweden,4,8.9,0.3
+Akamai Technologies,Information Technology,North America,United States,10.6,1.6,0.3
+Awa Bank,Financials,Asia,Japan,1.2,0.7,0.1
+Icade,Financials,Europe,France,7.3,1.9,0.2
+Sinomach Automobile,,Asia,China,1.5,12.2,0.1
+Sichuan Changhong Electric,,Asia,China,2.5,9.2,0.1
+Towers Watson & Co.,Consumer Discretionary,North America,United States,8.4,3.5,0.4
+Hanwha Chemical,Materials,Asia,South Korea,2.6,7.2,0
+Acer,Information Technology,Asia,Taiwan,1.6,12.1,-0.7
+GPT Group,Financials,Australia,Australia,5.7,0.6,0.6
+Aichi Bank,Financials,Asia,Japan,0.6,0.5,0
+Total Access Communication,Telecommunication Services,Asia,Thailand,8.7,3.1,0.3
+Makita,Consumer Staples,Asia,Japan,7.5,3.8,0.4
+OSRAM Licht,,Europe,Germany,6.7,6.9,0
+Nippon Steel Trading,Materials,Asia,Japan,1,12.1,0.2
+Jindal Steel & Power,Materials,Asia,India,4.6,3.5,0.5
+Hyundai Wia,Consumer Discretionary,Asia,South Korea,4.1,6.5,0.4
+Toho Holdings,Health Care,Asia,Japan,1.6,12.1,0.1
+Vopak,Industrials,Europe,Netherlands,7,1.7,0.4
+China Fortune Land Development,,Asia,China,6,2.9,0.4
+Stericycle,Health Care,North America,United States,9.7,2.1,0.3
+Shangri-La Asia,Consumer Discretionary,Asia,Hong Kong,5.1,2.1,0.4
+Range Resources,Energy,North America,United States,13.8,1.7,0.1
+Western Refining,Energy,North America,United States,3.2,10.1,0.3
+Sydbank,Financials,Europe,Denmark,1.9,1,0
+New Hope Liuhe,Consumer Staples,Asia,China,3.3,11.1,0.3
+Toyota Boshoku,Consumer Discretionary,Asia,Japan,1.9,12,0.1
+Joy Global,Industrials,North America,United States,5.8,4.7,0.4
+Shui On Land,Financials,Asia,China,2.2,1.7,0.3
+TPV Technology,Information Technology,Asia,Hong Kong,0.4,12,0
+Shandong Iron and Steel,Materials,Asia,China,1.7,11,-0.3
+Caixa Economica Montepio Geral,Financials,Europe,Portugal,0.3,1.7,0
+Inotera Memories,Information Technology,Asia,Taiwan,5,2,0.7
+Konica Minolta,Consumer Discretionary,Asia,Japan,5,9.4,0.2
+Jaccs,Financials,Asia,Japan,0.7,1.1,0.1
+Oceaneering International,Energy,North America,United States,7.8,3.3,0.4
+TripAdvisor,Consumer Discretionary,North America,United States,13.6,0.9,0.2
+American Natl Ins,Financials,North America,United States,3.1,3.1,0.3
+Andhra Bank,Financials,Asia,India,0.6,2.7,0.2
+Grasim Industries,Materials,Asia,India,4.4,5.1,0.5
+Windstream,Telecommunication Services,North America,United States,5.1,6,0.2
+Tomony Holdings,Financials,Asia,Japan,0.6,0.6,0.1
+Clariant,Materials,Europe,Switzerland,6.3,6.6,0
+Teradata,Information Technology,North America,United States,7.7,2.7,0.4
+Fuji Electric,Industrials,Asia,Japan,3.2,7.7,0.3
+Admiral Group plc,Financials,Europe,United Kingdom,6.6,1.4,0.4
+URS,Industrials,North America,United States,3.5,11,0.2
+Oshkosh,Industrials,North America,United States,5,7.4,0.3
+FMC,Materials,North America,United States,10.3,4,0.3
+Prysmian,Industrials,Europe,Italy,5.4,9.7,0.2
+JSW Steel,Materials,Asia,India,4.1,7,0.2
+Yunnan Yuntianhua,Materials,Asia,China,1.6,6.5,0.1
+Meiji Holdings,Consumer Staples,Asia,Japan,4.5,11.6,0.2
+Odakyu Electric Railway,Industrials,Asia,Japan,6.1,5.3,0.2
+Arab Banking,Financials,Asia,Bahrain,1.6,1.4,0.2
+Pakistan State Oil,Energy,Asia,Pakistan,1.1,11.6,0.2
+Shikoku Bank,Financials,Asia,Japan,0.4,0.4,0.1
+Cameco,Materials,North America,Canada,9.5,2.4,0.3
+BMCE Bank,Financials,Africa,Morocco,4.6,1.5,0.1
+Synovus Financial,Financials,North America,United States,3.4,1.2,0.2
+Equifax,Consumer Discretionary,North America,United States,8.5,2.3,0.3
+UNY Group Holdings,Consumer Discretionary,Asia,Japan,1.4,10.7,0.1
