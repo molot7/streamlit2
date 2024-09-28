@@ -1,10 +1,7 @@
-import pip
-pip.main(["install","plotly"])
-
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
-import numpy as np
+
 
  
 st.set_page_config(page_title="pagina 2",layout="wide")
