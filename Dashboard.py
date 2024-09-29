@@ -34,21 +34,48 @@ option2=st.sidebar.selectbox("Selecciona la variable numérica", numericas)
  #   "What are your favorite colors",
  #   categoricas,'Company')
 
-grouped_df = df.groupby(option, as_index=False).sum()
 
-fig2 = go.Figure([go.Bar(x=df[option].unique(), y=df[option2])])
-fig2.update_layout(
-        title='Gráfico de Barras',
-        xaxis_title=str(option),
-        yaxis_title=str(option2),
+bo = go.Figure()
+
+def box(x,y):
+    for i in df[x].unique():
+        bo.add_trace(go.Violin(x=df[x][df[x] == i],
+                            y=df[y][df[x] == i],
+                            fillcolor='rgba(0, 255, 0, 0.5)',
+                            name=i,
+                            box_visible=True,
+                            meanline_visible=True))
+        bo.update_layout(title='Grafico de violinplot',
+                  yaxis_title=y,
+                  xaxis_title=i)
+
+    st.plotly_chart(bo,theme=None)
+    
+box(option,option2)
+
+def barras (x,y):
+        grouped_df = df.groupby(x, as_index=False).sum()
+
+        fig2 = go.Figure([go.Bar(x=df[x].unique(), y=df[y])])
+        fig2.update_layout(
+        title='Gráfico violinplot',
+        xaxis_title=str(x),
+        yaxis_title=str(y),
         template='plotly_white'
         )
 
-st.plotly_chart(fig2,theme=None)
+        st.plotly_chart(fig2,theme=None)
+
+
+
+barras (option,option2)
+
+
 
 col1, col2= st.columns([1,1])
 
 with col1:
+        grouped_df = df.groupby(option, as_index=False).sum()
         st.dataframe(grouped_df[list([option]) + list(numericas)],hide_index=True)
 
 
