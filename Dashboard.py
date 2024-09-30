@@ -45,6 +45,8 @@ df = pd.read_csv('Forbes2.csv')
 categoricas=df.columns[df.dtypes=="O"]
 numericas=df.select_dtypes(include=['number']).columns
 
+st.sidebar.write("##### Aqui puedes interactuar con las variables de los datos")
+
 option=st.sidebar.selectbox("Agrupar por variable categpórica", categoricas,index=1)
 option2=st.sidebar.selectbox("Selecciona la variable numérica", numericas)
 
