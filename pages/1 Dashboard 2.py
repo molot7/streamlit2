@@ -27,9 +27,14 @@ df = pd.read_csv('Forbes2.csv')
 categoricas=df.columns[df.dtypes=="O"]
 numericas=df.select_dtypes(include=['number']).columns
 
+st.sidebar.write("#### controla la primera grafica")
+
 option=st.sidebar.selectbox("Selecciona la variable categórica", categoricas,index=1)
 
 option2=st.sidebar.selectbox("Selecciona la variable numérica", numericas)
+
+st.sidebar.write("#### Para ver el histograma de:")
+option3=st.sidebar.selectbox("Selecciona alguna numérica", numericas)
 
 
 bo = go.Figure()
@@ -44,6 +49,8 @@ def box(x,y):
         bo.update_layout(title='Grafico de violinplot',
                   yaxis_title=y)
         
+        bo.update_layout(height=400)
+
         bo.update_layout(
                 margin=dict(l=60, r=40, t=40, b=100),  # Ajustar márgenes si es necesario
                 modebar=dict(
@@ -67,28 +74,28 @@ col1, col2 = st.columns([1,2])
     
 #pone una tabla
 with col1:
-    tabla = pd.DataFrame({str(option):pd.Series(df[option].unique()), 'Registros':pd.Series(df[option].value_counts().values)})
+        c1, c2 = st.columns(2)
 
-    st.dataframe(tabla,hide_index=True)
+        c1.container(border=True).metric('Valor promedio de '+str(option3), round((df[option3]).mean(),2), label_visibility="visible")  
+        c2.container(border=True).metric('Desviación estandar de '+str(option3), round((df[option3]).std(),2), label_visibility="visible")
 
 #pone grafico de barras
 with col2:
 
     #st.write("valores anuales")
-    fig = go.Figure(data=[
-    go.Bar(x=pd.Series(df[option].unique()), y=pd.Series(df[option].value_counts().values), marker_color='royalblue') ])
+    hist = go.Figure(data=[go.Histogram(x=df[option3])])
+    hist.update_layout(
+            margin=dict(l=60, r=40, t=40, b=100),  # Ajustar márgenes si es necesario
+            modebar=dict(
+            orientation='h',  # Orientación vertical
+            bgcolor='rgba(255, 255, 255, 0.9)'  # Fondo semi-transparente
+                )
+                )
+    bo.update_layout(height=400)
 
-    fig.update_layout(
-    title='Valores anuales',
-    xaxis_title=option,
-    yaxis_title='Ordenes',
-    width=800,   # Ancho del gráfico en píxeles
-    height=400,
-    xaxis=dict(
-        tickangle=90      # Girar las etiquetas del eje X 45 grados en sentido antihorario
-    ))
+    hist.update_layout(title_text='Histograma de '+str(option3)+'  (valores globales)')
     #template='plotly_white'  # Puedes elegir un tema diferente si lo prefieres)
-    st.plotly_chart(fig, theme=None,use_container_width=True)
+    st.plotly_chart(hist, theme=None,use_container_width=True)
     #st.plotly_chart(fig, theme=None, use_container_width=True)
 
 
@@ -98,32 +105,3 @@ with col2:
 #    st.plotly_chart(fig, theme=None,use_container_width=True)
 
 st.divider()
-
-st.write("# Datos numéricos")
-
-col1, col2 = st.columns([1,2])
-
-with col1:
-    tabla = pd.DataFrame({'Valores':pd.Series(df[option2].unique()), 'Registros':pd.Series(df[option2].value_counts().values)})
-
-    st.dataframe(tabla,hide_index=True)
-
-#pone grafico de barras
-with col2:
-
-    #st.write("valores anuales")
-    fig = go.Figure(data=[
-    go.Bar(x=pd.Series(df[option2].unique()), y=pd.Series(df[option2].value_counts().values), marker_color='royalblue') ])
-
-    fig.update_layout(
-    title='Valores anuales',
-    xaxis_title=option2,
-    yaxis_title='Ordenes',
-    width=800,   # Ancho del gráfico en píxeles
-    height=400,
-    xaxis=dict(
-        tickangle=90      # Girar las etiquetas del eje X 45 grados en sentido antihorario
-    ))
-    #template='plotly_white'  # Puedes elegir un tema diferente si lo prefieres)
-    st.plotly_chart(fig, theme=None,use_container_width=True)
-    #st.plotly_chart(fig, theme=None, use_container_width=True)
