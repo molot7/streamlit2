@@ -38,7 +38,7 @@ st.markdown(
 )
 
 
-st.write("### Ejemplo de dashboard dinámico interactivo en streamlit,  creado por Diego")
+st.write("### Ejemplo de dashboard dinámico interactivo en streamlit")
 
 df = pd.read_csv('Forbes2.csv')
 
